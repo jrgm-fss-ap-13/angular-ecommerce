@@ -1,0 +1,2690 @@
+[
+    {
+        "name": "Abysmal Knight Card",
+        "prefix": "Liberation",
+        "description": "Increase damage on Boss monster by 25%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4140.png"
+    },
+    {
+        "name": "Agav Card",
+        "prefix": "Panic",
+        "description": "MATK + 5%, DEF - 10[Mage Class]Max SP + 100",
+        "image": "https://static.divine-pride.net/images/items/cards/4409.png"
+    },
+    {
+        "name": "Alarm Card",
+        "prefix": "Seeker's",
+        "description": "Maximum HP + 300VIT + 1Add a 20% chance of auto casting Level 1 Sight around the user when the user receives Physical Damage.[Clock Tower Manager, Clock & Punk Card Combo]More Information on Combo:Tower Keeper Card, Alarm Card, Clock Card & Punk Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4244.png"
+    },
+    {
+        "name": "Alice Card",
+        "prefix": "of Royal Guard",
+        "description": "Receive 40% less damage from Boss monster.Receive 40% more damage from normal monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4253.png"
+    },
+    {
+        "name": "Alicel Card",
+        "prefix": "Swift",
+        "description": "Flee Rate + 10DEF - 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4401.png"
+    },
+    {
+        "name": "Aliot Card",
+        "prefix": "Strange",
+        "description": "[Swordman, Merchant, Thief Class]STR + 2, Maximum HP + 5%[Mage, Acolyte, Archer Class]INT + 2, Maximum SP + 5%",
+        "image": "https://static.divine-pride.net/images/items/cards/4402.png"
+    },
+    {
+        "name": "Aliza Card",
+        "prefix": "of Temptation",
+        "description": "Add a 5% chance of auto casting Wink of Charm on an enemy when the user receives Physical Damage.[Dancer, Gypsy]Auto cast chance increases to 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4400.png"
+    },
+    {
+        "name": "Alligator Card",
+        "prefix": "Four Leaf Clover",
+        "description": "Receive 5% less damage from Long Range Physical attack.[Cruiser, Anolian, Merman & Dragon Tail Card Combo]More Information on Combo:Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser CardDragon Tail Card, Anolian Card, Alligator Card, Cruiser Card & Green Ferus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4252.png"
+    },
+    {
+        "name": "Am Mut Card",
+        "prefix": "Assassinator's",
+        "description": "Receive 10% more Experience Points from DemiHuman monsters.Receive 20% more damage from DemiHuman monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4245.png"
+    },
+    {
+        "name": "Ambernite Card",
+        "prefix": "of Athena",
+        "description": "DEF + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4032.png"
+    },
+    {
+        "name": "Amon Ra Card",
+        "prefix": "Protective",
+        "description": "All Stats + 1Add a 3% chance of auto casting Level 10 Kyrie Eleison on the user when the user receives Physical Damage.[Base Intelligence >= 99]Add a chance of auto casting Level 10 Kyrie Eleison is increased to 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4236.png"
+    },
+    {
+        "name": "Anacondaq Card",
+        "prefix": "Envenom",
+        "description": "Increase damage on Poison Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4062.png"
+    },
+    {
+        "name": "Ancient Mimic Card",
+        "prefix": "of Agility Switching",
+        "description": "Every 18 Base LUK, you gain 1 AGI.",
+        "image": "https://static.divine-pride.net/images/items/cards/4387.png"
+    },
+    {
+        "name": "Ancient Mummy Card",
+        "prefix": "Shining Cross",
+        "description": "Add a 3% chance of auto casting Level 5 Signum Crucis when the user receives Physical Damage.[+ Mummy Card]Perfect Hit (which never miss its target) + 20More Information on Combo:Mummy Card & Ancient Mummy Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4248.png"
+    },
+    {
+        "name": "Ancient Worm Card",
+        "prefix": "Witch Doctor's",
+        "description": "Receive 10% more Experience Points from Demon monsters.Receive 20% more damage from Demon monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4249.png"
+    },
+    {
+        "name": "Andre Card",
+        "prefix": "Hurricane",
+        "description": "ATK + 20",
+        "image": "https://static.divine-pride.net/images/items/cards/4043.png"
+    },
+    {
+        "name": "Andre Egg Card",
+        "prefix": "Excellent",
+        "description": "Maximum HP + 5%",
+        "image": "https://static.divine-pride.net/images/items/cards/4013.png"
+    },
+    {
+        "name": "Angeling Card",
+        "prefix": "Holy",
+        "description": "Blesses an Armor with the Holy Property.",
+        "image": "https://static.divine-pride.net/images/items/cards/4054.png"
+    },
+    {
+        "name": "Anolian Card",
+        "prefix": "of Clarity",
+        "description": "Add a 3% chance of auto casting Level 1 Attention Concentrate on the user when the user receives Physical Damage.If the user has mastered the skill at Level 10, it will cast Level 10 Attention Concentrate.[Cruiser, Alligator, Merman & Dragon Tail Card Combo]More Information on Combo:Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser CardDragon Tail Card, Anolian Card, Alligator Card, Cruiser Card & Green Ferus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4234.png"
+    },
+    {
+        "name": "Anopheles Card",
+        "prefix": "of Value",
+        "description": "Add a chance of gaining 'Tentacle and Cheese Gratin' each time an Insect monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4344.png"
+    },
+    {
+        "name": "Antonio Card",
+        "prefix": "of Escape",
+        "description": "Add a 50% chance of auto casting Level 1 Teleport on the user when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4243.png"
+    },
+    {
+        "name": "Anubis Card",
+        "prefix": "Satanic",
+        "description": "Reduce damage from Angel monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4138.png"
+    },
+    {
+        "name": "Apocalipse Card",
+        "prefix": "Prime",
+        "description": "VIT + 2If compounded on an armor with Refine Rate +9 or higher, Maximum HP + 800.",
+        "image": "https://static.divine-pride.net/images/items/cards/4242.png"
+    },
+    {
+        "name": "Aqua Elemental Card",
+        "prefix": "of Underneath",
+        "description": "Decreases damage from Water Property by 20%.Increases damage dealing to Water Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4443.png"
+    },
+    {
+        "name": "Arc Angeling Card",
+        "prefix": "Miraculous",
+        "description": "Maximum HP + 300[Base Lucky >= 77]Increase HP and SP Recovery by 100%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4241.png"
+    },
+    {
+        "name": "Archdam Card",
+        "prefix": "of Paladin",
+        "description": "ATK + 10Increase Casting Time by 20%.[+ Permeter, Freezer & Heater Card]INT + 1STR + 1DEF + 2SP Recovery + 10%Inflict 10% more damage with Shield Chain and Sacrifice.Reduce Casting Time by 10%.[Crusader, Paladin]Blesses an Armor with the Holy Property.More Information on Combo:Permeter Card, Freezer Card, Heater Card & Archdam Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4371.png"
+    },
+    {
+        "name": "Archer Skeleton Card",
+        "prefix": "Kingbird",
+        "description": "Ranged Attack Damage + 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4094.png"
+    },
+    {
+        "name": "Arclouze Card",
+        "prefix": "Magic-Proof",
+        "description": "If card is compounded on a Shield with refine rate of +5 or lower, DEF + 2 and MDEF + 3.",
+        "image": "https://static.divine-pride.net/images/items/cards/4240.png"
+    },
+    {
+        "name": "Argiope Card",
+        "prefix": "Poisoning",
+        "description": "Enchant an Armor with the Poison Property.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4114.png"
+    },
+    {
+        "name": "Argos Card",
+        "prefix": "Hypnotic",
+        "description": "Increase resistance to Stone Curse status by 20%.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4075.png"
+    },
+    {
+        "name": "Armeyer Dinze Card",
+        "prefix": "Stamina",
+        "description": "Add a chance of gaining 'Clam Soup' each time a Fish monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4347.png"
+    },
+    {
+        "name": "Assassin Cross Card",
+        "prefix": "of Shadow",
+        "description": "Enables use of Level 3 Cloaking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4359.png"
+    },
+    {
+        "name": "Assaulter Card",
+        "prefix": "Killing",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on DemiHuman monster.[+ Solider, Permeter, Freezer & Heater Card]Add a 0.3% chance of auto casting Level 1 Weapon Perfection on the enemy when attacking.HP Recovery + 50%Maximum HP + 20%STR + 10Add a 5% chance of gaining 'Red Potion' item each time a monster is killed.[Swordman Class]Red, Yellow and White Potions restore 50% more HP.More Information on Combo:Solider Card, Assaulter Card, Permeter Card, Freezer Card & Heater Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4246.png"
+    },
+    {
+        "name": "Aster Card",
+        "prefix": "Starfish's",
+        "description": "Inflict 30% more damage on Shell Fishes.ATK + 5[Crab & Shell Fish Card Combo]More Information on Combo:Crab Card, Aster Card & Shell Fish Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4247.png"
+    },
+    {
+        "name": "Atroce Card",
+        "prefix": "Beast",
+        "description": "ATK + 25When dealing a physical attack there is a small chance that for 10 seconds your ASPD will increase by 100%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4425.png"
+    },
+    {
+        "name": "Baby Desert Wolf Card",
+        "prefix": "of Desert",
+        "description": "INT + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4023.png"
+    },
+    {
+        "name": "Baby Leopard Card",
+        "prefix": "Lucky Fluke",
+        "description": "LUK + 3[Merchant Class]Make an armor indestructible (except in upgrade attempts).[Raggler, Zipper Bear, Hylozoist & Myst Case Card Combo]More Information on Combo:Muka Card, Raggler Card, Baby Leopard Card, Zipper Bear Card & Holden CardRaggler Card, Myst Case Card, Baby Leopard Card, Zipper Bear Card & Hylozoist Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4233.png"
+    },
+    {
+        "name": "Banshee Card",
+        "prefix": "Mental",
+        "description": "[Mage and Mage Upper Classes]Max SP + 100, Max HP - 100Inflict 20% more damage with Soul Strike, Napalm Beat, Napalm Vulcan.",
+        "image": "https://static.divine-pride.net/images/items/cards/4438.png"
+    },
+    {
+        "name": "Banshee Master Card",
+        "prefix": "Surplus",
+        "description": "INT + 1, MATK + 10.",
+        "image": "https://static.divine-pride.net/images/items/cards/4450.png"
+    },
+    {
+        "name": "Bapho Jr. Card",
+        "prefix": "of Rogue",
+        "description": "AGI + 3, Critical Rate + 1%",
+        "image": "https://static.divine-pride.net/images/items/cards/4129.png"
+    },
+    {
+        "name": "Baphomet Card",
+        "prefix": "Scythelike",
+        "description": "Endow a weapon with damage that will splash 9 cells around the character with each attack.HIT - 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4147.png"
+    },
+    {
+        "name": "Baroness of Retribution Card",
+        "prefix": "Snack",
+        "description": "Add a chance of gaining 'Fried Sweet Potato' each time an Angel monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4391.png"
+    },
+    {
+        "name": "Bathory Card",
+        "prefix": "Evil",
+        "description": "Enchant Armors with the Shadow Property.",
+        "image": "https://static.divine-pride.net/images/items/cards/4119.png"
+    },
+    {
+        "name": "Beetle King Card",
+        "prefix": "of Marine Soul Eater",
+        "description": "Gain 5 SP each time a Fish monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4307.png"
+    },
+    {
+        "name": "Beholder Card",
+        "prefix": "Magic Cancel",
+        "description": "Enables use of Level 1 Cast Cancel.",
+        "image": "https://static.divine-pride.net/images/items/cards/4356.png"
+    },
+    {
+        "name": "Berzebub Card",
+        "prefix": "of Bigmouth",
+        "description": "Reduce Casting Time by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4145.png"
+    },
+    {
+        "name": "Bigfoot Card",
+        "prefix": "of Gargantua",
+        "description": "Reduce damage from Insect monster by 30%.[Grizzly Card Combo]More Information on Combo:Bigfoot Card & Grizzly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4074.png"
+    },
+    {
+        "name": "Blazer Card",
+        "prefix": "Rationing",
+        "description": "Add a chance of gaining a Food item each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4215.png"
+    },
+    {
+        "name": "Bloody Butterfly Card",
+        "prefix": "Spell Flow",
+        "description": "Spell casting can not be interrupted.Increase Casting Time by 30%.Inflict 5% more damage with Fire Wall.[Loli Ruri, Parasite, Miyabi Doll, Evil Nymph & Harpy Card Combo]More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly CardMiyabi Doll Card, Evil Nymph Card, Harpy Card, Bloody Butterfly Card & Yellow Novus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4327.png"
+    },
+    {
+        "name": "Bloody Knight Card",
+        "prefix": "Meteoric",
+        "description": "Add a 2% chance of auto casting Level 1 Meteor Storm on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4320.png"
+    },
+    {
+        "name": "Bloody Murderer Card",
+        "prefix": "Man-Eater's",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Insect monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4214.png"
+    },
+    {
+        "name": "Blue Acidus Card",
+        "prefix": "Low Level",
+        "description": "Maximum SP + 40[When compounded into an item with refine rate of 0~4]Additional Maximum SP + 40SP Recovery + 5%",
+        "image": "https://static.divine-pride.net/images/items/cards/4379.png"
+    },
+    {
+        "name": "Bongun Card",
+        "prefix": "of Knock-Back",
+        "description": "Add a 2% chance of auto casting Level 1 Bash on an enemy when attacking.The Bash skill shoves the enemy 5 cells back.Receive 100% more damage from Munaks.[Munak & Hyegun Card Combo]More Information on Combo:Munak Card, Bongun Card & Yao Jun Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4212.png"
+    },
+    {
+        "name": "Bow Guardian Card",
+        "prefix": "of Shaft",
+        "description": "Critical Rate + 5, HIT + 5Increases Arrow Shower damage when used with a bow by 50%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4428.png"
+    },
+    {
+        "name": "Breeze Card",
+        "prefix": "Blooding",
+        "description": "ATK + 5Add a 5% chance of auto casting Bleeding on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4390.png"
+    },
+    {
+        "name": "Brilight Card",
+        "prefix": "of Reticence",
+        "description": "Add a 6% chance of auto casting 'Silence' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4213.png"
+    },
+    {
+        "name": "Byorgue Card",
+        "prefix": "Exceeding",
+        "description": "[Rogue, Stalker]ATK + 10%, MATK + 10%",
+        "image": "https://static.divine-pride.net/images/items/cards/4426.png"
+    },
+    {
+        "name": "Caramel Card",
+        "prefix": "Insecticide",
+        "description": "Increase damage on Insect monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4063.png"
+    },
+    {
+        "name": "Carat Card",
+        "prefix": "Maestro",
+        "description": "INT + 2[When compounded into an item with refine rate of +9 or higher]Maximum SP + 150",
+        "image": "https://static.divine-pride.net/images/items/cards/4288.png"
+    },
+    {
+        "name": "Cat O' Nine Tails Card",
+        "prefix": "Mirror",
+        "description": "Reflect single target Magic back at the caster (Success Chance 5%).MDEF + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4290.png"
+    },
+    {
+        "name": "Caterpillar Card",
+        "prefix": "of Plant Soul Eater",
+        "description": "Gain 5 SP each time a Plant monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4289.png"
+    },
+    {
+        "name": "Cecil Damon Card",
+        "prefix": "Rapid",
+        "description": "HIT - 30Increases Attack Speed by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4368.png"
+    },
+    {
+        "name": "Centipede Card",
+        "prefix": "of Envenom",
+        "description": "Decreases damage from Poison Property by 20%.Increases damage dealing to Poison Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4447.png"
+    },
+    {
+        "name": "Centipede Larva Card",
+        "prefix": "Magical",
+        "description": "INT + 1, MATK + 3.",
+        "image": "https://static.divine-pride.net/images/items/cards/4452.png"
+    },
+    {
+        "name": "Chepet Card",
+        "prefix": "of Caress",
+        "description": "Add a 5% chance of auto casting Level 5 Heal on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4284.png"
+    },
+    {
+        "name": "Chimera Card",
+        "prefix": "Venomous Charge",
+        "description": "Add a 3% chance of auto casting Poison on an enemy when the user receives Physical Damage.[Assassin, Assassin Cross]Poison chance increases to 9%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4300.png"
+    },
+    {
+        "name": "Choco Card",
+        "prefix": "Elven-Enchanted",
+        "description": "Perfect Dodge + 5Flee Rate + 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4285.png"
+    },
+    {
+        "name": "Chonchon Card",
+        "prefix": "Light",
+        "description": "AGI + 1Flee Rate + 2[Dragon Fly Card Combo]More Information on Combo:Chonchon Card & Dragon Fly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4009.png"
+    },
+    {
+        "name": "Christmas Cookie Card",
+        "prefix": "Fallen Angel's",
+        "description": "Receive 10% more Experience Points from Angel monsters.Receive 20% more damage from Angel monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4235.png"
+    },
+    {
+        "name": "Clock Card",
+        "prefix": "Guardian's",
+        "description": "Add a 3% chance of auto casting Level 3 Auto Guard on the user when the user receives Physical Damage.If the user has mastered the skill at Level 10, it will cast Level 10 Auto Guard.[Clock Tower Manager, Alarm & Punk Card Combo]More Information on Combo:Tower Keeper Card, Alarm Card, Clock Card & Punk Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4299.png"
+    },
+    {
+        "name": "Cloud Hermit Card",
+        "prefix": "Dark Sky",
+        "description": "Every time you kill a Plant monster, there is a 1% chance of gaining a \"Box of Gloom\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4262.png"
+    },
+    {
+        "name": "Coco Card",
+        "prefix": "of Sandman",
+        "description": "Increase resistance to Sleep status by 20%.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4041.png"
+    },
+    {
+        "name": "Condor Card",
+        "prefix": "Quick",
+        "description": "Flee Rate + 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4015.png"
+    },
+    {
+        "name": "Cookie Card",
+        "prefix": "of Chance",
+        "description": "LUK + 2Inflict 10% more damage with Holy Light.[Geographer, Rideword, Enchanted Peach Tree & Seal Card Combo]More Information on Combo:Rideword Card, Enchanted Peach Tree Card, Geographer Card, Cookie Card & Fur Seal CardRideword Card, Cookie Card, Fur Seal Card & Waste Stove Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4293.png"
+    },
+    {
+        "name": "Cornus Card",
+        "prefix": "of Damned",
+        "description": "Decreases damage from Holy Property by 20%.Increases damage dealing to Holy Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4448.png"
+    },
+    {
+        "name": "Cornutus Card",
+        "prefix": "Immortal",
+        "description": "Make an armor indestructible (except in upgrade attempts).DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4061.png"
+    },
+    {
+        "name": "Crab Card",
+        "prefix": "of Cancer",
+        "description": "Inflict 30% more damage on Asters.ATK + 5[+ Shell Fish & Aster]Inflict 30% more damage on Water Property enemies.30% chance of gaining 'Raw Fish' item each time a Fish monster is killed.More Information on Combo:Crab Card, Aster Card & Shell Fish Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4153.png"
+    },
+    {
+        "name": "Cramp Card",
+        "prefix": "Greedy",
+        "description": "Add a 1% chance of gaining a certain amount of Zeny each time a monster is killed.[+ Tarou Card]STR + 3More Information on Combo:Tarou Card & Cramp Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4296.png"
+    },
+    {
+        "name": "Creamy Card",
+        "prefix": "Teleport",
+        "description": "Enables use of Level 1 Teleportation.",
+        "image": "https://static.divine-pride.net/images/items/cards/4040.png"
+    },
+    {
+        "name": "Creamy Fear Card",
+        "prefix": "of Mayhem",
+        "description": "Add a 6% chance of auto casting 'Confusion' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4298.png"
+    },
+    {
+        "name": "Cruiser Card",
+        "prefix": "Poaching",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Brute monster.[Anolian, Alligator, Merman & Dragon Tail Card Combo]More Information on Combo:Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser CardDragon Tail Card, Anolian Card, Alligator Card, Cruiser Card & Green Ferus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4297.png"
+    },
+    {
+        "name": "Dame of Sentinel Card",
+        "prefix": "of Dexterity Switching",
+        "description": "Every 18 Base VIT, you gain 1 DEX.",
+        "image": "https://static.divine-pride.net/images/items/cards/4392.png"
+    },
+    {
+        "name": "Dark Frame Card",
+        "prefix": "Solidifying",
+        "description": "Add a 6% chance of auto casting 'Stone Curse' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4170.png"
+    },
+    {
+        "name": "Dark Illusion Card",
+        "prefix": "Spell Master's",
+        "description": "Maximum HP and SP - 10%Reduce Casting Time by 10%.[+ Dark Lord Card]Reduce Casting Time by 20%.Reduce cast time by an additional 10%.More Information on Combo:Dark Lord Card & Dark Illusion Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4169.png"
+    },
+    {
+        "name": "Dark Lord Card",
+        "prefix": "of Doom",
+        "description": "Add a 10% chance of auto casting Level 5 Meteor Storm on an enemy when the user receives Physical Damage.[+ Dark Illusion Card]Maximum HP and SP + 20%.Reduce cast time by an additional 10%.More Information on Combo:Dark Lord Card & Dark Illusion Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4168.png"
+    },
+    {
+        "name": "Dark Priest Card",
+        "prefix": "Soul Draining",
+        "description": "Add a 5% chance of decreasing enemy's SP amount by 10% when attacking.[Sage, Professor]Gains 1 SP every time when doing physical attack on monsters.",
+        "image": "https://static.divine-pride.net/images/items/cards/4171.png"
+    },
+    {
+        "name": "Dark Shadow Card",
+        "prefix": "of Hallowed",
+        "description": "Decreases damage from Shadow Property by 20%.Increases damage dealing to Shadow Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4449.png"
+    },
+    {
+        "name": "Death Word Card",
+        "prefix": "Soul",
+        "description": "Inflict 5% more damage with Soul Strike, Napalm Beat, Napalm Vulcan.-50 SP when unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4388.png"
+    },
+    {
+        "name": "Demon Pungus Card",
+        "prefix": "Mesmerizing",
+        "description": "Add a 6% chance of auto casting 'Sleep' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4173.png"
+    },
+    {
+        "name": "Desert Wolf Card",
+        "prefix": "Gigantic",
+        "description": "Increase damage inflicted on Small size monster by 15%.ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4082.png"
+    },
+    {
+        "name": "Despero of Thanatos Card",
+        "prefix": "Thickheaded",
+        "description": "INT - 6Increase INT by an amount equal to the refine rate of the equipment this card is compounded on.",
+        "image": "https://static.divine-pride.net/images/items/cards/4397.png"
+    },
+    {
+        "name": "Detardeurus Card",
+        "prefix": "of Magic Shelter",
+        "description": "MDEF -20Gains immunity against Frozen status.Has a 5% chance of autocasting Level 1 Land Protector around the user when the user receives magical attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4386.png"
+    },
+    {
+        "name": "Deviace Card",
+        "prefix": "Aqua",
+        "description": "Increase damage on DemiHuman, Brute, Plant and Insect monster by 7%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4125.png"
+    },
+    {
+        "name": "Deviling Card",
+        "prefix": "Deviant",
+        "description": "Add a 50% resistance against Neutral Property attacks.Receive 50% more damage from other property attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4174.png"
+    },
+    {
+        "name": "Deviruchi Card",
+        "prefix": "Adurate",
+        "description": "Gain immunity to the Blind status.STR + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4122.png"
+    },
+    {
+        "name": "Diabolic Card",
+        "prefix": "of Demon Soul Eater",
+        "description": "Gain 5 SP each time a Demon monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4182.png"
+    },
+    {
+        "name": "Dimik Card",
+        "prefix": "Weaken",
+        "description": "VIT - 5Increase VIT by an amount equal to the refine rate of the equipment this card is compound on.",
+        "image": "https://static.divine-pride.net/images/items/cards/4370.png"
+    },
+    {
+        "name": "Disguise Card",
+        "prefix": "Soundless",
+        "description": "Add a 3% chance of auto casting 'Silence' on an enemy when the user receives Physical Damage.[Base Vitality >= 77]Add a chance of auto casting 'Silence' is increased to 9%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4181.png"
+    },
+    {
+        "name": "Dokebi Card",
+        "prefix": "of Zephyrus",
+        "description": "Enchant Armors with the Wind Property.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4098.png"
+    },
+    {
+        "name": "Dolor of Thanatos Card",
+        "prefix": "Darkness",
+        "description": "Increases magical attack damage against Angel Type monsters by 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4398.png"
+    },
+    {
+        "name": "Doppelganger Card",
+        "prefix": "of Berserk",
+        "description": "Enable faster Attack Speed so long as the weapon to which this card is compounded is equipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4142.png"
+    },
+    {
+        "name": "Draco Card",
+        "prefix": "of Saharic",
+        "description": "Decreases damage from Earth Property by 20%.Increases damage dealing to Earth Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4444.png"
+    },
+    {
+        "name": "Dracula Card",
+        "prefix": "Spiritual",
+        "description": "Enable a 10% chance of gaining 5% of the damage inflicted upon an enemy as SP with each attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4134.png"
+    },
+    {
+        "name": "Dragon Egg Card",
+        "prefix": "Drink",
+        "description": "Add a chance of gaining 'Honey Herbal Tea' each time a Dragon monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4385.png"
+    },
+    {
+        "name": "Dragon Fly Card",
+        "prefix": "of Highlight",
+        "description": "AGI + 1[+ Chonchon Card]Flee Rate + 18More Information on Combo:Chonchon Card & Dragon Fly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4179.png"
+    },
+    {
+        "name": "Dragon Tail Card",
+        "prefix": "Bow-Master's",
+        "description": "AGI + 1Flee Rate + 10Inflict 5% more damage with Double Strafing and Arrow Shower.[Cruiser, Anolian, Alligator & Merman Card Combo]More Information on Combo:Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser CardDragon Tail Card, Anolian Card, Alligator Card, Cruiser Card & Green Ferus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4178.png"
+    },
+    {
+        "name": "Drainliar Card",
+        "prefix": "Saharic",
+        "description": "Increase damage on Water Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4069.png"
+    },
+    {
+        "name": "Drake Card",
+        "prefix": "of Infinity",
+        "description": "Nullify reduction in damage inflicted on enemies resulting from enemy's size.",
+        "image": "https://static.divine-pride.net/images/items/cards/4137.png"
+    },
+    {
+        "name": "Driller Card",
+        "prefix": "of Dragon Soul Eater",
+        "description": "Gain 5 SP each time a Dragon monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4180.png"
+    },
+    {
+        "name": "Drops Card",
+        "prefix": "Dexterous",
+        "description": "DEX + 1HIT + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4004.png"
+    },
+    {
+        "name": "Drosera Card",
+        "prefix": "of Chinook",
+        "description": "Increase Critical Rate + 15 damage with Long Range Physical attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4421.png"
+    },
+    {
+        "name": "Dryad Card",
+        "prefix": "Green Stone",
+        "description": "Add a chance of gaining 'Green Live' each time a Plant monster is killed.Add a 10% resistance against Earth Property attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4177.png"
+    },
+    {
+        "name": "Dullahan Card",
+        "prefix": "Fatal Serpentine",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Dragon monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4176.png"
+    },
+    {
+        "name": "Dumpling Child Card",
+        "prefix": "Sweet Scented",
+        "description": "Add a chance of gaining 'Candy' or 'Candy Cane' each time a DemiHuman monster is killed.Candy and Candy Cane restore 50% more HP.",
+        "image": "https://static.divine-pride.net/images/items/cards/4154.png"
+    },
+    {
+        "name": "Dustiness Card",
+        "prefix": "of Warmth",
+        "description": "Increase resistance to the Wind Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4056.png"
+    },
+    {
+        "name": "Earth Deleter Card",
+        "prefix": "Soul Collector's",
+        "description": "Reduces natural SP recovery by 100%.Gain 10 SP each time an enemy is killed by a Physical Melee Damage.Drain 100 SP as the armor is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4279.png"
+    },
+    {
+        "name": "Earth Petite Card",
+        "prefix": "Dragoon",
+        "description": "Increase damage on Dragon monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4118.png"
+    },
+    {
+        "name": "Echio Card",
+        "prefix": "Mad",
+        "description": "ATK + 15[Swordman Class]Max HP + 500",
+        "image": "https://static.divine-pride.net/images/items/cards/4410.png"
+    },
+    {
+        "name": "Eclipse Card",
+        "prefix": "Magic Resistant",
+        "description": "VIT + 1[+ Lunatic Card]Flee Rate + 18More Information on Combo:Lunatic Card & Eclipse Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4266.png"
+    },
+    {
+        "name": "Eddga Card",
+        "prefix": "Bearer's",
+        "description": "Enable effect of the Endure skill so long as the Footgear to which this card is compounded is equipped.Maximum HP - 25%",
+        "image": "https://static.divine-pride.net/images/items/cards/4123.png"
+    },
+    {
+        "name": "Eggyra Card",
+        "prefix": "of Witch",
+        "description": "SP Recovery + 15%",
+        "image": "https://static.divine-pride.net/images/items/cards/4070.png"
+    },
+    {
+        "name": "Egnigem Cenia Card",
+        "prefix": "of Power Switching",
+        "description": "Every 18 Base INT, you gain 1 STR.",
+        "image": "https://static.divine-pride.net/images/items/cards/4346.png"
+    },
+    {
+        "name": "Elder Card",
+        "prefix": "Invasion",
+        "description": "Inflict 40% more damage on Guardians during War of Emperium hours.",
+        "image": "https://static.divine-pride.net/images/items/cards/4251.png"
+    },
+    {
+        "name": "Elder Willow Card",
+        "prefix": "Erudite",
+        "description": "INT + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4052.png"
+    },
+    {
+        "name": "Enchanted Peach Tree Card",
+        "prefix": "Rejuvenating",
+        "description": "Add a 2% chance of auto casting Level 1 Heal on the user when attacking.If the user has mastered the skill at Level 10, it will cast Level 10 Heal.[Geographer, Rideword, Cookie & Seal Card Combo]More Information on Combo:Rideword Card, Enchanted Peach Tree Card, Geographer Card, Cookie Card & Fur Seal Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4217.png"
+    },
+    {
+        "name": "Entweihen Crothen Card",
+        "prefix": "of Axis",
+        "description": "MATK + 100.",
+        "image": "https://static.divine-pride.net/images/items/cards/4451.png"
+    },
+    {
+        "name": "Eremes Guile Card",
+        "prefix": "Assassin",
+        "description": "Critical Rate + 10 on DemiHuman monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4360.png"
+    },
+    {
+        "name": "Errende Ebecee Card",
+        "prefix": "Anti Arrow",
+        "description": "Add a 5% chance of auto casting Level 1 Pneuma on the user when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4349.png"
+    },
+    {
+        "name": "Evil Druid Card",
+        "prefix": "Deadly",
+        "description": "Enchant Armor with the Undead Property.INT + 1, DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4141.png"
+    },
+    {
+        "name": "Evil Nymph Card",
+        "prefix": "Prodigy",
+        "description": "INT + 1Maximum SP + 50[Loli Ruri, Parasite, Miyabi Doll, Harpy & Bloody Butterfly Card Combo]More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly CardMiyabi Doll Card, Evil Nymph Card, Harpy Card, Bloody Butterfly Card & Yellow Novus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4258.png"
+    },
+    {
+        "name": "Evil Snake Lord Card",
+        "prefix": "Curse Lift",
+        "description": "Never be affected by Blind and Curse effects.INT + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4330.png"
+    },
+    {
+        "name": "Executioner Card",
+        "prefix": "Anti-Large",
+        "description": "DEF + 1Receive 25% less damage from Large size monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4250.png"
+    },
+    {
+        "name": "Explosion Card",
+        "prefix": "Dragon Slayer's",
+        "description": "Receive 10% more Experience Points from Dragon monsters.Receive 20% more damage from Dragon monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4267.png"
+    },
+    {
+        "name": "Fabre Card",
+        "prefix": "Vital",
+        "description": "VIT + 1Maximum HP + 100",
+        "image": "https://static.divine-pride.net/images/items/cards/4002.png"
+    },
+    {
+        "name": "Fallen Bishop Hibram Card",
+        "prefix": "Arrogant",
+        "description": "MATK + 10%, Maximum SP - 50%Increases damage inflicted on Demihuman and Angel monster by 50%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4441.png"
+    },
+    {
+        "name": "False Angel Card",
+        "prefix": "of Angel Soul Eater",
+        "description": "Gain 5 SP each time an Angel monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4316.png"
+    },
+    {
+        "name": "Familiar Card",
+        "prefix": "Blink",
+        "description": "Blind an enemy when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4020.png"
+    },
+    {
+        "name": "Female Thief Bug Card",
+        "prefix": "Shrewd",
+        "description": "AGI + 1Flee Rate + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4026.png"
+    },
+    {
+        "name": "Firelock Soldier Card",
+        "prefix": "Superior",
+        "description": "STR + 2[Refine Rate +9 or higher]Maximum HP and SP + 10%",
+        "image": "https://static.divine-pride.net/images/items/cards/4160.png"
+    },
+    {
+        "name": "Flame Skull Card",
+        "prefix": "of Anathema",
+        "description": "Add a 30% resistance against Stun, Curse, Blind, Stone Curse.Add a chance of auto casting Stun, Curse, Blind, Stone Curse when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4439.png"
+    },
+    {
+        "name": "Flora Card",
+        "prefix": "Fisher",
+        "description": "Increase damage on Fish monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4080.png"
+    },
+    {
+        "name": "Freezer Card",
+        "prefix": "Sword-Master's",
+        "description": "Maximum HP + 300[When compounded into an item with refine rate of +9 or higher]Inflict 10% more damage with Bash.\n[Solider, Assaulter, Permeter & Heater Card Combo]More Information on Combo:Solider Card, Assaulter Card, Permeter Card, Freezer Card & Heater CardPermeter Card, Freezer Card, Heater Card & Archdam Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4319.png"
+    },
+    {
+        "name": "Frilldora Card",
+        "prefix": "Guard",
+        "description": "Enables use of Level 1 Cloaking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4088.png"
+    },
+    {
+        "name": "Frus Card",
+        "prefix": "of Magic Mirror",
+        "description": "Reflect single target Magic back at the caster by 2 times the refine rate chance. When used by a mage type character, MDEF + 3.However, the reflect chance increases only up to + 10 refine.[Mage Class]MDEF + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4405.png"
+    },
+    {
+        "name": "Gajomart Card",
+        "prefix": "Havoc Bringer's",
+        "description": "Receive 10% more Experience Points from Plant monsters.Receive 20% more damage from Plant monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4151.png"
+    },
+    {
+        "name": "Galapago Card",
+        "prefix": "Sprightly",
+        "description": "Add a chance of gaining 'Apple Juice', 'Banana Juice' or 'Carrot Juice' each time an Insect monster is killed.Juice items restore 50% more HP.",
+        "image": "https://static.divine-pride.net/images/items/cards/4152.png"
+    },
+    {
+        "name": "Galion Card",
+        "prefix": "of Sharkia",
+        "description": "HIT + 5, Increase damage on Water Property enemies by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4423.png"
+    },
+    {
+        "name": "Gargoyle Card",
+        "prefix": "of Serenity",
+        "description": "Every time you kill an Insect monster, there is a 1% chance of gaining a \"Box of Thunder\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4149.png"
+    },
+    {
+        "name": "Gazeti Card",
+        "prefix": "of Hail",
+        "description": "Add a 5% chance of auto casting Level 2 Cold Bolt on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4418.png"
+    },
+    {
+        "name": "Gemini-S58 Card",
+        "prefix": "of Stability",
+        "description": "[Base Agility >= 90]Add a 30% resistance against Silence and Stun.[Base Vitality >= 80]Add a 50% resistance against Stone Curse and Sleep.",
+        "image": "https://static.divine-pride.net/images/items/cards/4354.png"
+    },
+    {
+        "name": "General Egnigem Cenia Card",
+        "prefix": "of Regeneration",
+        "description": "Every 10 seconds, you recover 50 HP and 10 SP.Increases Maximum HP and Maximum SP by 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4352.png"
+    },
+    {
+        "name": "Geographer Card",
+        "prefix": "Blessed",
+        "description": "Add a 3% chance of auto casting Level 2 Blessing on the user when the user receives Physical Damage.If the user has mastered the skill at Level 10, it will cast Level 10 Blessing.[+ Rideword, Enchanted Peach Tree, Cookie & Seal Card]VIT + 10Reduce Casting Time by 10%.Reduce 10% SP comsumption.[Acolyte Class]Receive 30% less damage from Demon and Undead monster.Receive 5% more Experience Points from Demon and Undead monsters.More Information on Combo:Rideword Card, Enchanted Peach Tree Card, Geographer Card, Cookie Card & Fur Seal Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4280.png"
+    },
+    {
+        "name": "Ghostring Card",
+        "prefix": "Ghost",
+        "description": "Enchant an Armor with the Ghost Property.HP Recovery - 25%",
+        "image": "https://static.divine-pride.net/images/items/cards/4047.png"
+    },
+    {
+        "name": "Ghoul Card",
+        "prefix": "Viper's",
+        "description": "Increases resistance to the Poison status by 20%.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4110.png"
+    },
+    {
+        "name": "Giant Hornet Card",
+        "prefix": "Yellow Stone",
+        "description": "Add a chance of gaining 'Wind of Verdure' each time an Insect monster is killed.Add a 10% resistance against Wind Property attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4271.png"
+    },
+    {
+        "name": "Giant Spider Card",
+        "prefix": "of Venom",
+        "description": "Add a 6% chance of auto casting 'Poison' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4270.png"
+    },
+    {
+        "name": "Giant Whisper Card",
+        "prefix": "Mystic",
+        "description": "Flee Rate + 10[Base STR >= 80]ATK + 20[Base VIT >= 80]Maximum HP + 3%[Base LUK >= 80]Critical Rate + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4303.png"
+    },
+    {
+        "name": "Gibbet Card",
+        "prefix": "of Magical Immunity",
+        "description": "[When compounded into an item with refine rate of 0~5]MDEF + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4278.png"
+    },
+    {
+        "name": "Giearth Card",
+        "prefix": "Order",
+        "description": "Gain immunity to the Confusion status.Increase resistance to Earth Property attacks by 15%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4087.png"
+    },
+    {
+        "name": "Gig Card",
+        "prefix": "of Insect Soul Eater",
+        "description": "Gain 5 SP each time an Insect monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4165.png"
+    },
+    {
+        "name": "Gloom Under Night Card",
+        "prefix": "Abyss",
+        "description": "Increase damage inflicted on Holy Property, Shadow Property, Angel monster and Demon monster by 40%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4408.png"
+    },
+    {
+        "name": "Goat Card",
+        "prefix": "Spell-Proof",
+        "description": "If the card is compounded on an armor that is refined to +5 or below, DEF +2 and MDEF +5.",
+        "image": "https://static.divine-pride.net/images/items/cards/4150.png"
+    },
+    {
+        "name": "Goblin Archer Card",
+        "prefix": "Piercing",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Undead monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4157.png"
+    },
+    {
+        "name": "Goblin Card",
+        "prefix": "Clamorous",
+        "description": "Increase damage on Brute monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4060.png"
+    },
+    {
+        "name": "Goblin Leader Card",
+        "prefix": "Deadly Goblin's",
+        "description": "Inflict 30% more damage on Goblins.",
+        "image": "https://static.divine-pride.net/images/items/cards/4155.png"
+    },
+    {
+        "name": "Goblin Steamrider Card",
+        "prefix": "of Fatal Flame",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Formless monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4156.png"
+    },
+    {
+        "name": "Gold Acidus Card",
+        "prefix": "Low Level",
+        "description": "Maximum HP and SP + 4%[When compounded into an item with refine rate of 0~4]Additional Maximum HP and SP + 4%HP and SP Recovery + 5%",
+        "image": "https://static.divine-pride.net/images/items/cards/4378.png"
+    },
+    {
+        "name": "Golden Thief Bug Card",
+        "prefix": "of Deaf",
+        "description": "Nullify all magic spells, including supportive skills, that target the owner at the cost of doubling SP Consumption cost when using skills.",
+        "image": "https://static.divine-pride.net/images/items/cards/4128.png"
+    },
+    {
+        "name": "Golem Card",
+        "prefix": "Solid",
+        "description": "Make a weapon indestructible (except in upgrade attempts).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4072.png"
+    },
+    {
+        "name": "Grand Peco Card",
+        "prefix": "Anti-Magic",
+        "description": "Add a 5% chance of auto casting Level 1 Gloria on the user when the user receives Physical Damage.[+ Peco Peco Card]DEF + 3VIT + 3More Information on Combo:Pecopeco Card & Grand Peco Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4161.png"
+    },
+    {
+        "name": "Greatest General Card",
+        "prefix": "Mana Sphere",
+        "description": "Add a 0.2% chance of auto casting Level 5 Call Spirits on the user when attacking.[Acolyte Class]The chance is increased to 2%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4283.png"
+    },
+    {
+        "name": "Green Ferus Card",
+        "prefix": "of Wonderer",
+        "description": "VIT + 1Maximum HP + 10%[+ Cruiser, Anolian, Alligator & Dragon Tail Card]DEX + 5Inflict 5% more damage with Arrow Vulcan, and inflict 10% more damage with Musical Strike and Throw Arrow.[Bard, Dancer, Clown, Gypsy]Add a 5% chance of auto casting Level 2 Tarot Card of Fate on the enemy when attacking.More Information on Combo:Dragon Tail Card, Anolian Card, Alligator Card, Cruiser Card & Green Ferus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4381.png"
+    },
+    {
+        "name": "Green Maiden Card",
+        "prefix": "Cursed",
+        "description": "LUK - 5Increase LUK and Critical Rate + 1% per Refine Level of the equipment this card is compounded on.",
+        "image": "https://static.divine-pride.net/images/items/cards/4373.png"
+    },
+    {
+        "name": "Gremlin Card",
+        "prefix": "Healthy",
+        "description": "Add a chance of gaining 'Bomber Steak' each time a Brute monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4355.png"
+    },
+    {
+        "name": "Grizzly Card",
+        "prefix": "Sightless",
+        "description": "Add a 3% chance of auto casting 'Blind' on an enemy when the user receives Physical Damage.[+ Bigfoot Card]'Blind' chance increases to 9%.More Information on Combo:Bigfoot Card & Grizzly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4162.png"
+    },
+    {
+        "name": "Grove Card",
+        "prefix": "Sweety",
+        "description": "Add a chance of gaining 'Fruit Mix' each time a Formless monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4377.png"
+    },
+    {
+        "name": "Gryphon Card",
+        "prefix": "Wild",
+        "description": "Flee Rate + 2Critical Rate + 7[Swordman Class]Add a 1% chance of auto casting Level 5 Bowling Bash on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4163.png"
+    },
+    {
+        "name": "Gullinbursti Card",
+        "prefix": "Fisherman's",
+        "description": "Receive 10% more Experience Points each time a Fish monster is killed.Receive 20% more damage from Fish monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4164.png"
+    },
+    {
+        "name": "Harpy Card",
+        "prefix": "Vicious",
+        "description": "Add a 15% resistance against Neutral Property attacks.Inflict 5% more damage with Napalm Beat.[Loli Ruri, Parasite, Miyabi Doll, Evil Nymph & Bloody Butterfly Card Combo]More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly CardMiyabi Doll Card, Evil Nymph Card, Harpy Card, Bloody Butterfly Card & Yellow Novus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4325.png"
+    },
+    {
+        "name": "Hatii Babe Card",
+        "prefix": "of Frost",
+        "description": "Add a 5% chance of auto casting Level 3 Frost Diver on the enemy when attacking.[+ Garm Card]Frost Diver chance Increases to 30%More Information on Combo:Hatii Bebe Card & Hatii Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4323.png"
+    },
+    {
+        "name": "Hatii Card",
+        "prefix": "Arctic",
+        "description": "Add a 50% chance of auto casting 'Freeze' on an enemy when the user receives Physical Damage.[Garm Baby Card Combo]More Information on Combo:Hatii Bebe Card & Hatii Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4324.png"
+    },
+    {
+        "name": "Heater Card",
+        "prefix": "Evasion",
+        "description": "Critical Rate + 3[Swordman Class]Perfect Dodge + 3[Solider, Assaulter, Permeter & Freezer Card Combo]More Information on Combo:Solider Card, Assaulter Card, Permeter Card, Freezer Card & Heater CardPermeter Card, Freezer Card, Heater Card & Archdam Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4331.png"
+    },
+    {
+        "name": "Hell Poodle Card",
+        "prefix": "Rabid",
+        "description": "HIT +1Increases recovery rate of Meat by 100%.Has a 1% chance to cause Bleeding status on an enemy when dealing short ranged physical attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4437.png"
+    },
+    {
+        "name": "Hermit Plant Card",
+        "prefix": "Refreshing",
+        "description": "Add a chance of gaining 'Red Herb', 'Yellow Herb' or 'White Herb' each time a Plant monster is killed.Herb items restore 50% more HP.",
+        "image": "https://static.divine-pride.net/images/items/cards/4232.png"
+    },
+    {
+        "name": "High Orc Card",
+        "prefix": "of Retaliation",
+        "description": "DEF + 1Reflect 5% of all Physical Melee Damage back to the enemy which inflicted it.",
+        "image": "https://static.divine-pride.net/images/items/cards/4322.png"
+    },
+    {
+        "name": "High Priest Card",
+        "prefix": "Protection",
+        "description": "Every time you receive a Magical or a Physical Damage, small chance to auto-spell Level 1 Assumptio on yourself.",
+        "image": "https://static.divine-pride.net/images/items/cards/4363.png"
+    },
+    {
+        "name": "High Wizard Card",
+        "prefix": "of Tempest",
+        "description": "Ignores MDEF of normal monsters. Slows your casting time by 2x. Reduces SP regeneration rate by 100%.Drain 2000 SP as the headgear is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4365.png"
+    },
+    {
+        "name": "Hill Wind Card",
+        "prefix": "Sylph",
+        "description": "Inflict 5% more damage with Thunder Storm, Jupitel Thunder and Lord of Vermilion.-50 SP when unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4345.png"
+    },
+    {
+        "name": "Hillsrion Card",
+        "prefix": "Violent",
+        "description": "ATK + 25",
+        "image": "https://static.divine-pride.net/images/items/cards/4453.png"
+    },
+    {
+        "name": "Hode Card",
+        "prefix": "Glorious",
+        "description": "Increase resistance to Earth Property attacks by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4081.png"
+    },
+    {
+        "name": "Hodremlin Card",
+        "prefix": "Resistant",
+        "description": "Reduces physical damage received from Small, Medium and Large size monsters by 15%.Has a chance of gaining Perfect Dodge +30 for 10 seconds when the wearer receives physical or magical damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4413.png"
+    },
+    {
+        "name": "Holden Card",
+        "prefix": "of Creator",
+        "description": "LUK + 2[+ Raggler, Zipper Bear, Muka & Baby Leopard Card]STR + 4Maximum HP and SP + 7%Inflict 20% more damage with Mammonite.Gain 1 SP on every physical attack on enemies.[Alchemist, Creator]Add a 1% chance of auto casting Level 1 Adrenaline Rush on the user when attacking.Add a chance of gaining \"Glistening Coat\" or \"Stem\" each time a monster is killed.More Information on Combo:Muka Card, Raggler Card, Baby Leopard Card, Zipper Bear Card & Holden Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4343.png"
+    },
+    {
+        "name": "Horn Card",
+        "prefix": "Heavy",
+        "description": "Reduce damage from Long Range attacks by 35%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4045.png"
+    },
+    {
+        "name": "Hornet Card",
+        "prefix": "Martyr",
+        "description": "STR + 1ATK + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4019.png"
+    },
+    {
+        "name": "Horong Card",
+        "prefix": "Clairvoyant",
+        "description": "Enables use of Level 1 Sight.",
+        "image": "https://static.divine-pride.net/images/items/cards/4103.png"
+    },
+    {
+        "name": "Howard Alt-Eisen Card",
+        "prefix": "Hit",
+        "description": "HIT + 30Decreases Attack Speed by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4362.png"
+    },
+    {
+        "name": "Hunter Fly Card",
+        "prefix": "Malicious",
+        "description": "Enable a 3% chance of gaining 15% of the damage inflicted on an enemy as HP with each attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4115.png"
+    },
+    {
+        "name": "Hydra Card",
+        "prefix": "Bloody",
+        "description": "Increase damage on DemiHuman monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4035.png"
+    },
+    {
+        "name": "Hydrolancer Card",
+        "prefix": "Magic Eater",
+        "description": "Add a 10% chance of auto casting Level 1 Spell Breaker on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4384.png"
+    },
+    {
+        "name": "Hylozoist Card",
+        "prefix": "Polymorphic",
+        "description": "Add a chance of transforming a monster while fighting.[+ Raggler, Zipper Bear, Myst Case & Baby Leopard Card]Restore 2 SP every time when attacking.Inflict 20% more damage with Mammonite.LUK + 10[Merchant Class]Add a chance of gaining \"Old Purple Box\" each time a monster is killed.Reflect single target Magic back at the caster (Success Chance 20%).More Information on Combo:Raggler Card, Myst Case Card, Baby Leopard Card, Zipper Bear Card & Hylozoist Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4321.png"
+    },
+    {
+        "name": "Ice Titan Card",
+        "prefix": "of Flaw",
+        "description": "VIT +2Has a chance to gain DEF +10 for 10 seconds when the wearer receives physical or magical damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4417.png"
+    },
+    {
+        "name": "Ifrit Card",
+        "prefix": "of Inferno",
+        "description": "+1 ATK, +1 Critical Rate and +1 HIT for every 10 Job Levels.Adds a 1% chance of auto casting Level 2 Earthquake when receiving physical attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4430.png"
+    },
+    {
+        "name": "Imp Card",
+        "prefix": "of Ignis",
+        "description": "Reduce Casting Time of Fire Bolt by 25%. Inflict 25% more damage with Fire Bolt.",
+        "image": "https://static.divine-pride.net/images/items/cards/4433.png"
+    },
+    {
+        "name": "Incubus Card",
+        "prefix": "Fatasm",
+        "description": "INT -3Maximum SP +150SP Recovery -20%[+ Succubus Card]INT +4SP Recovery +30%More Information on Combo:Succubus Card & Incubus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4269.png"
+    },
+    {
+        "name": "Injustice Card",
+        "prefix": "Extending",
+        "description": "Add a 5% chance of auto casting Level 1 Sonic Blow on the enemy when attacking.[+ Zherlthsh Card]ATK + 20LUK + 3More Information on Combo:Injustice Card & Zealotus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4268.png"
+    },
+    {
+        "name": "Iron Fist Card",
+        "prefix": "Veteran Hunter's",
+        "description": "Receive 10% more Experience Points from Formless monsters. In a shared-party, any member can kill the Formless monster, but only the wearer will get the extra EXP.Receive 20% more damage from Formless monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4239.png"
+    },
+    {
+        "name": "Isilla Card",
+        "prefix": "Aria",
+        "description": "INT +2Each magic cast has a chance of reducing cast time by 50% and Flee +30 for 5 seconds.",
+        "image": "https://static.divine-pride.net/images/items/cards/4412.png"
+    },
+    {
+        "name": "Isis Card",
+        "prefix": "Divine",
+        "description": "Increase resistance to the Shadow Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4116.png"
+    },
+    {
+        "name": "Jakk Card",
+        "prefix": "Flameguard",
+        "description": "Increase resistance to the Fire Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4109.png"
+    },
+    {
+        "name": "Jing Guai Card",
+        "prefix": "of Dawn",
+        "description": "Every time you kill an Angel monster, there is a 1% chance of gaining a \"Box of Sunlight\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4265.png"
+    },
+    {
+        "name": "Joker Card",
+        "prefix": "of Moonlight",
+        "description": "Enables use of Level 1 Steal.",
+        "image": "https://static.divine-pride.net/images/items/cards/4139.png"
+    },
+    {
+        "name": "Kaho Card",
+        "prefix": "Underneath",
+        "description": "Increase damage on Earth Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4065.png"
+    },
+    {
+        "name": "Kapha Card",
+        "prefix": "Magically Shielded",
+        "description": "[When compounded into an item with refine rate of 0~5]MDEF + 8",
+        "image": "https://static.divine-pride.net/images/items/cards/4287.png"
+    },
+    {
+        "name": "Karakasa Card",
+        "prefix": "Terrorizing",
+        "description": "Add a 3% chance of auto casting 'Confusion' on an enemy when the user receives Physical Damage.[Base Strength >= 77]Add a chance of auto casting 'Confusion' is increased to 9%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4286.png"
+    },
+    {
+        "name": "Kasa Card",
+        "prefix": "Stygian",
+        "description": "Has a 5% chance of auto-casting Level 5 Fire Bolt or Level 5 Fire Ball on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4431.png"
+    },
+    {
+        "name": "Kathryne Keyron Card",
+        "prefix": "of Caster",
+        "description": "Reduce Casting Time by 1% per Refine Level of the equipment this card is compunded on.[Refine Rate +9 or higher]MATK + 2%",
+        "image": "https://static.divine-pride.net/images/items/cards/4366.png"
+    },
+    {
+        "name": "Kavach Icarus Card",
+        "prefix": "Low Level",
+        "description": "Flee Rate + 10[When compounded into an item with refine rate of 0~4]Additional Flee Rate + 10Perfect Dodge + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4351.png"
+    },
+    {
+        "name": "Khalitzburg Card",
+        "prefix": "from Hell",
+        "description": "Reduce damage from Demon monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4136.png"
+    },
+    {
+        "name": "Kiel-D-01 Card",
+        "prefix": "of Reload",
+        "description": "Reduces all skill's after-cast delay by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4403.png"
+    },
+    {
+        "name": "Killer Mantis Card",
+        "prefix": "Traumatic",
+        "description": "Add a 6% chance of auto casting Bleeding on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4301.png"
+    },
+    {
+        "name": "Knocker Card",
+        "prefix": "Miner's",
+        "description": "Increases damage on Formless monster by 5%.A small chance to get Rough Oridecon and Rough Eluminium from Formless monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4434.png"
+    },
+    {
+        "name": "Kobold Archer Card",
+        "prefix": "Deadly Plant's",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Plant monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4292.png"
+    },
+    {
+        "name": "Kobold Card",
+        "prefix": "of Counter",
+        "description": "Critical Rate + 4%STR + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4091.png"
+    },
+    {
+        "name": "Kobold Leader Card",
+        "prefix": "Deadly Kobold's",
+        "description": "Inflict 30% more damage on Kobolds.",
+        "image": "https://static.divine-pride.net/images/items/cards/4291.png"
+    },
+    {
+        "name": "Kraben Card",
+        "prefix": "of Blackout",
+        "description": "Add a 6% chance of auto casting 'Blind' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4295.png"
+    },
+    {
+        "name": "Ktullanux Card",
+        "prefix": "Jack Frost's",
+        "description": "Increases damage against Fire Property monsters by 50%.Add a 3% chance of auto casting Level 10 Frost Nova on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4419.png"
+    },
+    {
+        "name": "Kukre Card",
+        "prefix": "Athletic",
+        "description": "AGI + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4027.png"
+    },
+    {
+        "name": "Lady Solace Card",
+        "prefix": "Devine Cross",
+        "description": "[Priest, High Priest]Add a 2% chance of auto casting Level 5 Grand Cross when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4394.png"
+    },
+    {
+        "name": "Lady Tanee Card",
+        "prefix": "Manaful",
+        "description": "Maximum HP - 40%Maximum SP + 50%Add a 2% chance of gaining 'Banana' each time a monster is killed.Double Banana's healing rate.",
+        "image": "https://static.divine-pride.net/images/items/cards/4376.png"
+    },
+    {
+        "name": "Laurell Weinder Card",
+        "prefix": "Undine",
+        "description": "Inflict 3% more damage with Frost Nova and Storm Gust.-50 SP when unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4350.png"
+    },
+    {
+        "name": "Lava Golem Card",
+        "prefix": "Crushing",
+        "description": "Inflict 30% more damage on Golems.",
+        "image": "https://static.divine-pride.net/images/items/cards/4184.png"
+    },
+    {
+        "name": "Leaf Cat Card",
+        "prefix": "Blue Stone",
+        "description": "Add a chance of gaining 'Crystal Blue' each time a Fish or Shellfish monster is killed.Add a 10% resistance against Water Property attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4195.png"
+    },
+    {
+        "name": "Leib Olmai Card",
+        "prefix": "Red Stone",
+        "description": "Add a chance of gaining 'Red Blood' each time a Brute monster is killed.Add a 10% resistance against Fire Property attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4188.png"
+    },
+    {
+        "name": "Loli Ruri Card",
+        "prefix": "of the Stix",
+        "description": "Add a 5% chance of auto casting Level 3 Heal on the user when the user receives Physical Damage.[+ Parasite, Miyabi Doll, Evil Nymph, Harpy & Bloody Butterfly Card]DEF + 5MDEF + 5Maximum HP + 500Inflict 10% more damage with Fire, Cold and Lightning Bolt skill.[Mage Class]MATK + 3%Reduce Casting Time by 15%.More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4191.png"
+    },
+    {
+        "name": "Lord Knight Card",
+        "prefix": "of Fury",
+        "description": "Enables use of Level 1 Berserk.Maximum HP - 50%",
+        "image": "https://static.divine-pride.net/images/items/cards/4357.png"
+    },
+    {
+        "name": "Lord of The Dead Card",
+        "prefix": "Crucial",
+        "description": "Add a 0.01% chance of auto casting 'Coma' on enemy when attacking.Add a 5% chance of auto casting Stun, Curse, Silence, Poison, Bleeding on enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4276.png"
+    },
+    {
+        "name": "Luciola Vespa Card",
+        "prefix": "of Windy",
+        "description": "Decreases damage from Wind Property by 20%.Increases damage dealing to Wind Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4445.png"
+    },
+    {
+        "name": "Lude Card",
+        "prefix": "of Patience",
+        "description": "[Novice, Super Novice]Add a 20% chance of auto casting Level 1 Endure on the user when the user receives Physical Damage.[+ Quve Card]Maximum HP + 300More Information on Combo:Lude Card & Quve Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4193.png"
+    },
+    {
+        "name": "Lunatic Card",
+        "prefix": "Lucky",
+        "description": "LUK + 1Critical Rate + 1Perfect Dodge + 1[Eclipse Card Combo]More Information on Combo:Lunatic Card & Eclipse Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4006.png"
+    },
+    {
+        "name": "Maero of Thanatos Card",
+        "prefix": "Slug",
+        "description": "ATK + 5Add a 5% chance of auto casting Level 3 Decrease Agility on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4395.png"
+    },
+    {
+        "name": "Magmaring Card",
+        "prefix": "Scorching",
+        "description": "ATK + 5Increase damage on Earth Property enemies by 10%.Add a Critical Rate + 15 to the Brute monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4432.png"
+    },
+    {
+        "name": "Magnolia Card",
+        "prefix": "Cursing",
+        "description": "Curse an enemy when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4076.png"
+    },
+    {
+        "name": "Majoruros Card",
+        "prefix": "Crippling",
+        "description": "Add a 6% chance of auto casting Stun on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4201.png"
+    },
+    {
+        "name": "Male Thief Bug Card",
+        "prefix": "of Hermes",
+        "description": "AGI + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4050.png"
+    },
+    {
+        "name": "Mandragora Card",
+        "prefix": "Windy",
+        "description": "Increase damage inflicted upon Wind Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4030.png"
+    },
+    {
+        "name": "Mantis Card",
+        "prefix": "of Mustle",
+        "description": "STR + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4079.png"
+    },
+    {
+        "name": "Mao Guai Card",
+        "prefix": "of Exorcism",
+        "description": "Inflict 20% more damage on Ghost Property.",
+        "image": "https://static.divine-pride.net/images/items/cards/4202.png"
+    },
+    {
+        "name": "Marc Card",
+        "prefix": "Unfrozen",
+        "description": "Gain protection from the Freeze status and increase resistance to Water Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4105.png"
+    },
+    {
+        "name": "Marduk Card",
+        "prefix": "Peerless",
+        "description": "Gain immunity to the Silence status.",
+        "image": "https://static.divine-pride.net/images/items/cards/4112.png"
+    },
+    {
+        "name": "Margaretha Sorin Card",
+        "prefix": "of Magic Sealing",
+        "description": "Add a 15% chance of auto casting Level 5 Lex Divina on an enemy when the user receives Magical Damage.INT + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4364.png"
+    },
+    {
+        "name": "Marin Card",
+        "prefix": "of Jellopy",
+        "description": "Add a chance of gaining 'Jellopy or Large Jellopy' each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4196.png"
+    },
+    {
+        "name": "Marina Card",
+        "prefix": "Ice",
+        "description": "Freeze an enemy when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4055.png"
+    },
+    {
+        "name": "Marine Sphere Card",
+        "prefix": "Blast",
+        "description": "Enables use of Level 3 Magnum Break.",
+        "image": "https://static.divine-pride.net/images/items/cards/4084.png"
+    },
+    {
+        "name": "Marionette Card",
+        "prefix": "of Ghost",
+        "description": "Increase resistance to Ghost Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4113.png"
+    },
+    {
+        "name": "Marse Card",
+        "prefix": "Genie's",
+        "description": "Increase resistance against Water Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4095.png"
+    },
+    {
+        "name": "Martin Card",
+        "prefix": "of Cleric",
+        "description": "Increase resistance to Blind status by 20%.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4046.png"
+    },
+    {
+        "name": "Mastering Card",
+        "prefix": "Lucky Streak",
+        "description": "LUK + 1[+ Poring]Flee Rate + 18More Information on Combo:Poring Card & Mastering Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4197.png"
+    },
+    {
+        "name": "MasterSmith Card",
+        "prefix": "of Hollgrehenn",
+        "description": "Add a 10% chance of breaking the enemy's weapon and a 7% chance of breaking the enemy's armor when attacking.More Information on Combo:Hollgrehenn's Hammer[1] & MasterSmith Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4361.png"
+    },
+    {
+        "name": "Matyr Card",
+        "prefix": "Green",
+        "description": "Maximum HP + 10%AGI + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4097.png"
+    },
+    {
+        "name": "Maya Card",
+        "prefix": "Reflect",
+        "description": "Reflect single target attack Magic back at the caster (Success Chance 50%).",
+        "image": "https://static.divine-pride.net/images/items/cards/4146.png"
+    },
+    {
+        "name": "Maya Purple Card",
+        "prefix": "of True Sight",
+        "description": "Enable its user to detect hidden enemies.",
+        "image": "https://static.divine-pride.net/images/items/cards/4198.png"
+    },
+    {
+        "name": "Medusa Card",
+        "prefix": "Plasterer's",
+        "description": "Gain immunity to the Stone Curse status.Reduce damage from Demon monster by 15%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4124.png"
+    },
+    {
+        "name": "Megalith Card",
+        "prefix": "of Mystical Resistance",
+        "description": "If refine rate of compounded footgear is +5 or lower, MDEF +7.",
+        "image": "https://static.divine-pride.net/images/items/cards/4200.png"
+    },
+    {
+        "name": "Megalodon Card",
+        "prefix": "Atomic",
+        "description": "Increase resistance to the Freeze status by 20%.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4067.png"
+    },
+    {
+        "name": "Memory of Thanatos Card",
+        "prefix": "Penetration",
+        "description": "Deals more damage depending on the target's defense.Drain 1 SP from its owner on each attack.DEF - 30, Flee Rate - 30",
+        "image": "https://static.divine-pride.net/images/items/cards/4399.png"
+    },
+    {
+        "name": "Merman Card",
+        "prefix": "Dashing",
+        "description": "HP and SP Recovery + 10%[+ Cruiser, Anolian, Alligator & Dragon Tail Card]Inflict 20% more damage with Long Range Physical attack.AGI + 5DEX + 3Perfect Hit (which never miss its target) + 20%.[Archer Class]Receive 5% more Experience Points from Brute monsters.Add a chance of auto casting 'Coma' on Brute monster when attacking.More Information on Combo:Dragon Tail Card, Merman Card, Anolian Card, Alligator Card & Cruiser Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4199.png"
+    },
+    {
+        "name": "Metaling Card",
+        "prefix": "Disarm",
+        "description": "Add a 5% chance of auto casting Level 1 Strip Weapon on enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4341.png"
+    },
+    {
+        "name": "Metaller Card",
+        "prefix": "Silence",
+        "description": "Silence an enemy when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4057.png"
+    },
+    {
+        "name": "Mi Gao Card",
+        "prefix": "Charging",
+        "description": "Receive 50% less damage from Guardians during War of Emperium hours.",
+        "image": "https://static.divine-pride.net/images/items/cards/4231.png"
+    },
+    {
+        "name": "Mimic Card",
+        "prefix": "Blue Cubic",
+        "description": "Add a chance of gaining \"Old Blue Box\" each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4205.png"
+    },
+    {
+        "name": "Mineral Card",
+        "prefix": "of Stone Wall",
+        "description": "ATK - 25DEF + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4339.png"
+    },
+    {
+        "name": "Mini Demon Card",
+        "prefix": "Poacher's",
+        "description": "Receive 10% more Experience Points from Brute monsters.Receive 20% more damage from Brute monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4204.png"
+    },
+    {
+        "name": "Minorous Card",
+        "prefix": "Titan",
+        "description": "Increase damage inflicted on Large size monster by 15%.ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4126.png"
+    },
+    {
+        "name": "Mistress Card",
+        "prefix": "of Gemstone",
+        "description": "Nullify the Gemstone requirement of certain spells at the cost of increasing SP Consumption by 25% when using skills.",
+        "image": "https://static.divine-pride.net/images/items/cards/4132.png"
+    },
+    {
+        "name": "Mistress of Shelter Card",
+        "prefix": "of Inteligence Switching",
+        "description": "Every 18 Base STR, you gain 1 INT.",
+        "image": "https://static.divine-pride.net/images/items/cards/4393.png"
+    },
+    {
+        "name": "Miyabi Doll Card",
+        "prefix": "Energetic",
+        "description": "Maximum SP + 10%Inflict 5% more damage with Frost Diver skill.[Loli Ruri, Parasite, Evil Nymph, Harpy & Bloody Butterfly Card Combo]More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly CardMiyabi Doll Card, Evil Nymph Card, Harpy Card, Bloody Butterfly Card & Yellow Novus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4208.png"
+    },
+    {
+        "name": "Mobster Card",
+        "prefix": "Aural",
+        "description": "Inflict 15% more damage with Critical attacks.[Thief Class]Critical Rate + 4",
+        "image": "https://static.divine-pride.net/images/items/cards/4317.png"
+    },
+    {
+        "name": "Moonlight Flower Card",
+        "prefix": "Hasty",
+        "description": "Enable faster Movement Speed so long as the Footgear to which this card is compounded is equipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4131.png"
+    },
+    {
+        "name": "Muka Card",
+        "prefix": "Robust",
+        "description": "HP Recovery + 10%More Information on Combo:Muka Card, Raggler Card, Baby Leopard Card, Zipper Bear Card & Holden Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4036.png"
+    },
+    {
+        "name": "Mummy Card",
+        "prefix": "Ancient",
+        "description": "HIT + 20[Ancient Mummy Card Combo]More Information on Combo:Mummy Card & Ancient Mummy Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4106.png"
+    },
+    {
+        "name": "Munak Card",
+        "prefix": "Amulet",
+        "description": "Increase resistance to Stone Curse status by 15% and Earth Property attacks by 5%.DEF + 1[Bongun & Hyegun Card Combo]More Information on Combo:Munak Card, Bongun Card & Yao Jun Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4090.png"
+    },
+    {
+        "name": "Muscipular Card",
+        "prefix": "of Comfort",
+        "description": "Add a 3% chance of auto casting Level 1 Heal and Level 1 Increase Agi on yourself when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4420.png"
+    },
+    {
+        "name": "Mutant Dragonoid Card",
+        "prefix": "Blazing",
+        "description": "ATK + 15Add a 5% chance of auto casting Level 3 Fireball on an enemy when attacking.If the user has mastered the skill at Level 10, it will cast Level 10 Fire Ball.",
+        "image": "https://static.divine-pride.net/images/items/cards/4203.png"
+    },
+    {
+        "name": "Myst Card",
+        "prefix": "Innoxious",
+        "description": "Increase resistance to the Poison Property by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4108.png"
+    },
+    {
+        "name": "Myst Case Card",
+        "prefix": "Cubic",
+        "description": "Add a chance of gaining \"Gift Box\" each time a monster is killed.[Raggler, Zipper Bear, Hylozoist & Baby Leopard Card Combo]More Information on Combo:Raggler Card, Myst Case Card, Baby Leopard Card, Zipper Bear Card & Hylozoist Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4206.png"
+    },
+    {
+        "name": "Mysteltainn Card",
+        "prefix": "Anti-Small",
+        "description": "DEF + 1Receive 25% less damage from Small size monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4207.png"
+    },
+    {
+        "name": "Necromancer Card",
+        "prefix": "of Ignoring",
+        "description": "[When compounded to a Rod (One-handed Staff weapon type)]INT + 1Ignores 2% Magic Defense of enemies.",
+        "image": "https://static.divine-pride.net/images/items/cards/4440.png"
+    },
+    {
+        "name": "Nereid Card",
+        "prefix": "of Beast Soul Eater",
+        "description": "Gain 5 SP each time a Brute monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4167.png"
+    },
+    {
+        "name": "Nightmare Card",
+        "prefix": "Insomniac",
+        "description": "Gain immunity to the Sleep status.AGI + 1[Nightmare Terror Card Combo]More Information on Combo:Nightmare Card & Nightmare Terror Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4127.png"
+    },
+    {
+        "name": "Nightmare Terror Card",
+        "prefix": "of Jinx",
+        "description": "Add a 3% chance of auto casting 'Curse' on an enemy when the user receives Physical Damage.[+ Nightmare Card]'Curse' chance increases to 9%.More Information on Combo:Nightmare Card & Nightmare Terror Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4166.png"
+    },
+    {
+        "name": "Nine Tail Card",
+        "prefix": "De Luxe",
+        "description": "AGI + 2[Refine Rate +9 or higher]Flee Rate + 20",
+        "image": "https://static.divine-pride.net/images/items/cards/4159.png"
+    },
+    {
+        "name": "Noxious Card",
+        "prefix": "Anti-Sniping",
+        "description": "Reduce damage from Long Range attacks by 10%.10% Resistance to Neutral attacks.",
+        "image": "https://static.divine-pride.net/images/items/cards/4334.png"
+    },
+    {
+        "name": "Obeaune Card",
+        "prefix": "Cure",
+        "description": "Enables use of Level 1 Cure.",
+        "image": "https://static.divine-pride.net/images/items/cards/4093.png"
+    },
+    {
+        "name": "Obsidian Card",
+        "prefix": "of Vital Switching",
+        "description": "Every 18 Base DEX, you gain 1 VIT.",
+        "image": "https://static.divine-pride.net/images/items/cards/4338.png"
+    },
+    {
+        "name": "Odium of Thanatos Card",
+        "prefix": "Dull",
+        "description": "AGI - 5Increase AGI by an amount equal to the refine rate of the equipment this card is compounded on.",
+        "image": "https://static.divine-pride.net/images/items/cards/4396.png"
+    },
+    {
+        "name": "Ogretooth Card",
+        "prefix": "Anti-Medium",
+        "description": "DEF + 1Receive 25% less damage from Medium size monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4254.png"
+    },
+    {
+        "name": "Orc Archer Card",
+        "prefix": "Desirable",
+        "description": "Every time you kill a DemiHuman monster, there is a 1% chance of gaining a \"Box of Panting\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4256.png"
+    },
+    {
+        "name": "Orc Hero Card",
+        "prefix": "Neutral",
+        "description": "Gain immunity to the Stun status.VIT + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4143.png"
+    },
+    {
+        "name": "Orc Lady Card",
+        "prefix": "Smashing",
+        "description": "Inflict 30% more damage on Every Orc except Orc Lord and Orc Hero.",
+        "image": "https://static.divine-pride.net/images/items/cards/4255.png"
+    },
+    {
+        "name": "Orc Lord Card",
+        "prefix": "Mirror",
+        "description": "Reflect 30% of all Physical Melee Damage back to the enemy which inflicted it.",
+        "image": "https://static.divine-pride.net/images/items/cards/4135.png"
+    },
+    {
+        "name": "Orc Skeleton Card",
+        "prefix": "Damned",
+        "description": "Increase damage on Holy Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4085.png"
+    },
+    {
+        "name": "Orc Warrior Card",
+        "prefix": "Brutal",
+        "description": "Reduce damage from Brute monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4066.png"
+    },
+    {
+        "name": "Orc Zombie Card",
+        "prefix": "Angelic",
+        "description": "Increase resistance to Undead Property attacks by 30%.Flee Rate + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4071.png"
+    },
+    {
+        "name": "Osiris Card",
+        "prefix": "of Eternity",
+        "description": "Enable full HP and SP restoration when resurrected.",
+        "image": "https://static.divine-pride.net/images/items/cards/4144.png"
+    },
+    {
+        "name": "Owl Baron Card",
+        "prefix": "of Doubled Power",
+        "description": "Add a 3% chance of auto casting Level 1 Lex Aeterna on an enemy when attacking.[Owl Duke Card Combo]More Information on Combo:Owl Duke Card & Owl Baron Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4238.png"
+    },
+    {
+        "name": "Owl Duke Card",
+        "prefix": "of Godly Wrath",
+        "description": "Add a 0.3% chance of auto casting Level 3 Impositio Manus on the user when attacking.[+ Owl Baron Card]Add a 2% chance of auto casting Level 5 Lightning Bolt on an enemy when attacking.More Information on Combo:Owl Duke Card & Owl Baron Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4237.png"
+    },
+    {
+        "name": "Panzer Goblin Card",
+        "prefix": "Fatally Evil",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Demon monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4310.png"
+    },
+    {
+        "name": "Parasite Card",
+        "prefix": "Reinforced",
+        "description": "DEF + 1Add a 5% resistance against Neutral Property attacks.[Loli Ruri, Miyabi Doll, Evil Nymph, Harpy & Bloody Butterfly Card Combo]More Information on Combo:Loli Ruri Card, Miyabi Doll Card, Evil Nymph Card, Parasite Card, Harpy Card & Bloody Butterfly Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4309.png"
+    },
+    {
+        "name": "Pasana Card",
+        "prefix": "of Ifrit",
+        "description": "Enchant Armors with the Fire Property.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4099.png"
+    },
+    {
+        "name": "Peco Peco Card",
+        "prefix": "of Ares",
+        "description": "Maximum HP + 10%[Grand Peco Card Combo]More Information on Combo:Pecopeco Card & Grand Peco Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4031.png"
+    },
+    {
+        "name": "Peco Peco Egg Card",
+        "prefix": "Beholder",
+        "description": "Increase damage of attacks inflicted on Formless monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4007.png"
+    },
+    {
+        "name": "Penomena Card",
+        "prefix": "Fire-Proof",
+        "description": "Receive 30% less damage from Formless monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4314.png"
+    },
+    {
+        "name": "Permeter Card",
+        "prefix": "Anti-Evil",
+        "description": "Add a 15% resistance against Shadow and Undead Property attacks.[Solider, Assaulter, Freezer & Heater Card Combo]More Information on Combo:Solider Card, Assaulter Card, Permeter Card, Freezer Card & Heater CardPermeter Card, Freezer Card, Heater Card & Archdam Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4311.png"
+    },
+    {
+        "name": "Pest Card",
+        "prefix": "of Stone Curse",
+        "description": "Add a 3% chance of auto casting 'Stone Curse' on an enemy when the user receives Physical Damage.[Base Intelligence >= 77]Add a chance of auto casting 'Stone Curse' is increased to 9%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4315.png"
+    },
+    {
+        "name": "Pharaoh Card",
+        "prefix": "of Kirin",
+        "description": "Reduce SP Consumption of skills by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4148.png"
+    },
+    {
+        "name": "Phen Card",
+        "prefix": "Under a Cast",
+        "description": "Skill casting can not be interrupted.Increase Casting Time by 25%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4077.png"
+    },
+    {
+        "name": "Phendark Card",
+        "prefix": "Soul Gain",
+        "description": "Gain 5 SP each time a DemiHuman monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4329.png"
+    },
+    {
+        "name": "Phreeoni Card",
+        "prefix": "Perfect",
+        "description": "HIT + 100",
+        "image": "https://static.divine-pride.net/images/items/cards/4121.png"
+    },
+    {
+        "name": "Picky Card",
+        "prefix": "Extra",
+        "description": "STR + 1ATK + 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4008.png"
+    },
+    {
+        "name": "Picky Egg Card",
+        "prefix": "Dynamic",
+        "description": "VIT + 1Maximum HP + 100",
+        "image": "https://static.divine-pride.net/images/items/cards/4011.png"
+    },
+    {
+        "name": "Pirate Skeleton Card",
+        "prefix": "Discount",
+        "description": "Enables use of Level 5 Discount.",
+        "image": "https://static.divine-pride.net/images/items/cards/4073.png"
+    },
+    {
+        "name": "Pitman Card",
+        "prefix": "Gnome",
+        "description": "Inflict 5% more damage with Earth Spike and Heavens Drive.-50 SP when unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4335.png"
+    },
+    {
+        "name": "Plankton Card",
+        "prefix": "Drowsy",
+        "description": "Inflict Sleep status when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4024.png"
+    },
+    {
+        "name": "Plasma Card",
+        "prefix": "Elemental",
+        "description": "Adds a chance of gaining an Elemental Resist Potion (Fireproof,\r\nColdproof, Earthproof or Thunderproof) each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4389.png"
+    },
+    {
+        "name": "Poison Spore Card",
+        "prefix": "Poison",
+        "description": "Enables use of Level 3 Envenom.",
+        "image": "https://static.divine-pride.net/images/items/cards/4048.png"
+    },
+    {
+        "name": "Poisonous Toad Card",
+        "prefix": "Shoving",
+        "description": "Add a 2% chance of auto casting Level 1 Envenom on an enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4175.png"
+    },
+    {
+        "name": "Poporing Card",
+        "prefix": "Detoxication",
+        "description": "Enables use of Level 1 Detoxify.",
+        "image": "https://static.divine-pride.net/images/items/cards/4033.png"
+    },
+    {
+        "name": "Porcellio Card",
+        "prefix": "of Wild Cat",
+        "description": "ATK + 25DEF - 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4337.png"
+    },
+    {
+        "name": "Poring Card",
+        "prefix": "Lucky",
+        "description": "LUK + 2Perfect Dodge + 1[Mastering Card Combo]More Information on Combo:Poring Card & Mastering Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4001.png"
+    },
+    {
+        "name": "Punk Card",
+        "prefix": "Bogie",
+        "description": "Add a 5% chance of auto casting Level 1 Quagmire around the user when the user receives Physical Damage.If the user has mastered the skill at Level 5, it will cast Level 5 Quagmire.[Clock Tower Manager, Alarm & Clock Card Combo]More Information on Combo:Tower Keeper Card, Alarm Card, Clock Card & Punk Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4313.png"
+    },
+    {
+        "name": "Pupa Card",
+        "prefix": "Hard",
+        "description": "Maximum HP + 700",
+        "image": "https://static.divine-pride.net/images/items/cards/4003.png"
+    },
+    {
+        "name": "Quve Card",
+        "prefix": "Sneaky",
+        "description": "[Novice, Super Novice]Add a 10% chance of auto casting Level 1 Increase Agility on the user when the user receives Physical Damage.[+ Lude Card]Maximum SP + 60More Information on Combo:Lude Card & Quve Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4294.png"
+    },
+    {
+        "name": "Rafflesia Card",
+        "prefix": "Homer's",
+        "description": "Reduce damage from Fish monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4083.png"
+    },
+    {
+        "name": "Ragged Zombie Card",
+        "prefix": "Lunatic",
+        "description": "Critical Rate + 5, physical and magical damage increase by 1% when attacking DemiHuman monster.\r\nEvery time you attack, small chance to cause Bleeding status ailment.[+ Zombie Slaughter Card]Gain 2 SP every killing a DemiHuman monster.More Information on Combo:Zombie Slaughter Card & Ragged Zombie Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4436.png"
+    },
+    {
+        "name": "Raggler Card",
+        "prefix": "Strenuous",
+        "description": "STR + 1VIT + 1[Zipper Bear, Hylozoist, Myst Case & Baby Leopard Card Combo]More Information on Combo:Muka Card, Raggler Card, Baby Leopard Card, Zipper Bear Card & Holden CardRaggler Card, Myst Case Card, Baby Leopard Card, Zipper Bear Card & Hylozoist Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4186.png"
+    },
+    {
+        "name": "Randgris Card",
+        "prefix": "of Elimination",
+        "description": "Add a 1% chance of auto casting Level 1 Dispell when attacking.Make compounded weapon indestructible (except in upgrade attempts).Increases Physical Attack Strength by 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4407.png"
+    },
+    {
+        "name": "Raydric Archer Card",
+        "prefix": "of the Spooky Night",
+        "description": "Every time you kill a Demon monster, there is a 1% chance of gaining a \"Box of Resentment\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4187.png"
+    },
+    {
+        "name": "Raydric Card",
+        "prefix": "Immune",
+        "description": "Increase resistance to Neutral Property attacks by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4133.png"
+    },
+    {
+        "name": "Red Ferus Card",
+        "prefix": "Salamander",
+        "description": "Inflict 5% more damage with Fire Pillar and Meteor Storm.-50 SP when unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4380.png"
+    },
+    {
+        "name": "Red Novus Card",
+        "prefix": "Chaotic",
+        "description": "Add a 30% chance of auto casting 'Confusion' on an enemy and yourself when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4383.png"
+    },
+    {
+        "name": "Remover Card",
+        "prefix": "of Rejuvenation",
+        "description": "Maximum HP +800, decreases with the Refine Rate.HP Recovery +10%",
+        "image": "https://static.divine-pride.net/images/items/cards/4353.png"
+    },
+    {
+        "name": "Requiem Card",
+        "prefix": "Chaos",
+        "description": "Causes Confusion on an enemy when you attack (Success Chance 5%).",
+        "image": "https://static.divine-pride.net/images/items/cards/4104.png"
+    },
+    {
+        "name": "Rideword Card",
+        "prefix": "of Wisdom",
+        "description": "INT + 1[Acolyte Class]INT + 1MDEF + 1[Geographer, Enchanted Peach Tree, Cookie & Seal Card Combo]More Information on Combo:Rideword Card, Enchanted Peach Tree Card, Geographer Card, Cookie Card & Fur Seal CardRideword Card, Cookie Card, Fur Seal Card & Waste Stove Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4185.png"
+    },
+    {
+        "name": "Rocker Card",
+        "prefix": "Skillful",
+        "description": "DEX + 1ATK + 5[Vocal Card Combo]More Information on Combo:Rocker Card & Vocal Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4021.png"
+    },
+    {
+        "name": "Roda Frog Card",
+        "prefix": "of Champion",
+        "description": "Maximum HP + 400Maximum SP + 50[Toad Card Combo]More Information on Combo:Roda Frog Card & Toad Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4014.png"
+    },
+    {
+        "name": "Rotar Zairo Card",
+        "prefix": "of Fatal Pisces",
+        "description": "Inflict 10% more damage with Critical attacks.Critical Rate + 7 on Fish monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4192.png"
+    },
+    {
+        "name": "Roween Card",
+        "prefix": "Breezy",
+        "description": "Flee Rate + 5, Perfect Dodge + 3Increase damage on Water Property enemies by 10%.Add a Critical Rate + 15 to the Fish monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4422.png"
+    },
+    {
+        "name": "RSX-0806 Card",
+        "prefix": "Mammoth",
+        "description": "Can not be knocked back.VIT + 3Make an armor indestructible (except in upgrade attempts).",
+        "image": "https://static.divine-pride.net/images/items/cards/4342.png"
+    },
+    {
+        "name": "Rybio Card",
+        "prefix": "Overpowering",
+        "description": "Add a 3% chance of auto casting Stun on an enemy when the user receives Physical Damage.[Base Dexterity >= 77]Add a chance of auto casting Stun is increased to 9%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4194.png"
+    },
+    {
+        "name": "Sage Worm Card",
+        "prefix": "Magic Stone",
+        "description": "Add a chance of gaining a Gemstone each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4219.png"
+    },
+    {
+        "name": "Salamander Card",
+        "prefix": "Nessus's",
+        "description": "Inflict 40% more damage with Fire Pillar and Meteor Storm.",
+        "image": "https://static.divine-pride.net/images/items/cards/4429.png"
+    },
+    {
+        "name": "Samurai Spector Card",
+        "prefix": "Bloodlust",
+        "description": "Ignore normal monster's defense when attacking.Reduces natural HP recovery by 100% and drain 666 HP every 10 seconds.Drain 999 HP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4263.png"
+    },
+    {
+        "name": "Sandman Card",
+        "prefix": "of Gnome",
+        "description": "Enchant Armors with the Earth Property.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4101.png"
+    },
+    {
+        "name": "Santa Poring Card",
+        "prefix": "Hallowed",
+        "description": "Increase damage of attacks inflicted on Shadow Property by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4005.png"
+    },
+    {
+        "name": "Sasquatch Card",
+        "prefix": "Freezing",
+        "description": "Has a 6% chance of Freezing an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4216.png"
+    },
+    {
+        "name": "Savage Babe Card",
+        "prefix": "Stun",
+        "description": "Causes Stun effect to enemies by 5% chance.",
+        "image": "https://static.divine-pride.net/images/items/cards/4017.png"
+    },
+    {
+        "name": "Savage Card",
+        "prefix": "of Recovery",
+        "description": "VIT + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4078.png"
+    },
+    {
+        "name": "Scorpion Card",
+        "prefix": "Chemical",
+        "description": "Increase damage on Plant monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4068.png"
+    },
+    {
+        "name": "Sea-Otter Card",
+        "prefix": "Ocean Scented",
+        "description": "Add a chance of gaining 'Sushi' or 'Raw Fish' each time a Fish monster is killed.Sushi and Raw Fish items restore 50% more HP.",
+        "image": "https://static.divine-pride.net/images/items/cards/4326.png"
+    },
+    {
+        "name": "Seal Card",
+        "prefix": "of the Soul",
+        "description": "HIT + 10Flee Rate + 3[Acolyte Class]Critical Rate + 9 on Demon and Undead monster.[Geographer, Rideword, Enchanted Peach Tree & Cookie Card Combo]More Information on Combo:Rideword Card, Enchanted Peach Tree Card, Geographer Card, Cookie Card & Fur Seal CardRideword Card, Cookie Card, Fur Seal Card & Waste Stove Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4312.png"
+    },
+    {
+        "name": "Seeker Card",
+        "prefix": "Gorgon's",
+        "description": "MDEF + 10Enables use of Level 1 Stone Curse.Increase resistance to Stone Curse status by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4414.png"
+    },
+    {
+        "name": "Seyren Windsor Card",
+        "prefix": "Listless",
+        "description": "STR - 6Increase STR by an amount equal to the refine rate of the equipment this card is compound on.",
+        "image": "https://static.divine-pride.net/images/items/cards/4358.png"
+    },
+    {
+        "name": "Shell Fish Card",
+        "prefix": "Shell",
+        "description": "Inflict 30% more damage on Crabs.ATK + 5[Crab & Aster Card Combo]More Information on Combo:Crab Card, Aster Card & Shell Fish Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4273.png"
+    },
+    {
+        "name": "Shinobi Card",
+        "prefix": "Coward's",
+        "description": "AGI + 1Add a 10% chance of auto casting Level 5 Cloaking on the user when the user receives Physical Damage.If you equip this without learning Level 3 Cloaking or higher, it only activates when you are next to the wall.[Wanderer, The Paper, Wild Rose & Dancing Dragon Card Combo]More Information on Combo:Stainer Card, Wanderer Card, Shinobi Card, Wild Rose Card & Wickebine Tres CardThe Paper Card, Wanderer Card, Shinobi Card, Wild Rose Card & Zhu Po Long Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4230.png"
+    },
+    {
+        "name": "Sidewinder Card",
+        "prefix": "Hybrid",
+        "description": "Causes Double Attack by 5% chance.If character has learned Double Attack, this card won't take effect.",
+        "image": "https://static.divine-pride.net/images/items/cards/4117.png"
+    },
+    {
+        "name": "Siroma Card",
+        "prefix": "of Yana",
+        "description": "Reduce Casting Time of Cold Bolt by 25%. Inflict 25% more damage with Cold Bolt.",
+        "image": "https://static.divine-pride.net/images/items/cards/4416.png"
+    },
+    {
+        "name": "Skeggiold Card",
+        "prefix": "Twinkle",
+        "description": "Whenever you do a Magical attack, 2% additional damage vs. Demon-type enemies.",
+        "image": "https://static.divine-pride.net/images/items/cards/4406.png"
+    },
+    {
+        "name": "Skeleton Card",
+        "prefix": "Keen",
+        "description": "ATK + 10Causes Stun effect to enemies by 2% chance.[Skeleton Prisoner Card Combo]More Information on Combo:Skeleton Card & Skel Prisoner Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4025.png"
+    },
+    {
+        "name": "Skeleton General Card",
+        "prefix": "Insect Collector's",
+        "description": "Receive 10% more Experience Points from Insect monsters.Receive 20% more damage from Insect monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4221.png"
+    },
+    {
+        "name": "Skeleton Prisoner Card",
+        "prefix": "of Sleep",
+        "description": "Add a 3% chance of auto casting 'Sleep' on an enemy when the user receives Physical Damage.[+ Skeleton]'Sleep' chance increases to 9%.More Information on Combo:Skeleton Card & Skel Prisoner Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4222.png"
+    },
+    {
+        "name": "Skeleton Worker Card",
+        "prefix": "Boned",
+        "description": "Increase damage inflicted on Medium size monster by 15%.ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4092.png"
+    },
+    {
+        "name": "Skogul Card",
+        "prefix": "of Chaotic Bleeding",
+        "description": "Add a 30% chance of auto casting Bleeding on an enemy and yourself when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4404.png"
+    },
+    {
+        "name": "Sky Deleter Card",
+        "prefix": "Slaughter",
+        "description": "Reduces natural HP recovery by 100%.Gain 100 HP each time an enemy is killed by a Physical Melee Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4158.png"
+    },
+    {
+        "name": "Sky Petite Card",
+        "prefix": "of Dragoon",
+        "description": "Reduce damage from Dragon monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4120.png"
+    },
+    {
+        "name": "Sleeper Card",
+        "prefix": "of Siesta",
+        "description": "Every time you kill a Fish monster, there is a 1% chance of gaining a \"Box of Drowsiness\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4228.png"
+    },
+    {
+        "name": "Smokie Card",
+        "prefix": "Hiding",
+        "description": "Enables use of Level 1 Hiding.",
+        "image": "https://static.divine-pride.net/images/items/cards/4044.png"
+    },
+    {
+        "name": "Snake Card",
+        "prefix": "Untouchable",
+        "description": "Poison an enemy when you attack (Success Chance 5%).ATK + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4037.png"
+    },
+    {
+        "name": "Sniper Card",
+        "prefix": "of Squeezing",
+        "description": "Reduces HP recovery by 100%.Add a 5% chance of gaining 20% of the damage inflicted on an enemy as HP with each attack.",
+        "image": "https://static.divine-pride.net/images/items/cards/4367.png"
+    },
+    {
+        "name": "Snowier Card",
+        "prefix": "Sweet",
+        "description": "Add a low chance of gaining Ice Cream when a monster gets killed.Ice Cream recovery rate + 100%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4415.png"
+    },
+    {
+        "name": "Sohee Card",
+        "prefix": "Soul-Enchanted",
+        "description": "Maximum SP + 15%SP Recovery + 3%",
+        "image": "https://static.divine-pride.net/images/items/cards/4100.png"
+    },
+    {
+        "name": "Soldier Skeleton Card",
+        "prefix": "Critical",
+        "description": "Critical Rate + 9%",
+        "image": "https://static.divine-pride.net/images/items/cards/4086.png"
+    },
+    {
+        "name": "Solider Card",
+        "prefix": "Faithful",
+        "description": "DEF + 2MDEF + 2[Assaulter, Permeter, Freezer & Heater Card Combo]More Information on Combo:Solider Card, Assaulter Card, Permeter Card, Freezer Card & Heater Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4220.png"
+    },
+    {
+        "name": "Spore Card",
+        "prefix": "of Spore",
+        "description": "VIT + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4022.png"
+    },
+    {
+        "name": "Spring Rabbit Card",
+        "prefix": "Roast Scented",
+        "description": "Add a chance of gaining 'Meat' or 'Monster's Feed' each time a Brute monster is killed.'Meat' and 'Monster's Feed' restore 50% more HP.",
+        "image": "https://static.divine-pride.net/images/items/cards/4227.png"
+    },
+    {
+        "name": "Stainer Card",
+        "prefix": "of Aristotle",
+        "description": "Increase resistance to Silence status by 20%.DEF + 1More Information on Combo:Stainer Card, Wanderer Card, Shinobi Card, Wild Rose Card & Wickebine Tres Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4039.png"
+    },
+    {
+        "name": "Stalactic Golem Card",
+        "prefix": "Stun-Proof",
+        "description": "DEF + 1Add a 20% resistance against Stun.",
+        "image": "https://static.divine-pride.net/images/items/cards/4223.png"
+    },
+    {
+        "name": "Stapo Card",
+        "prefix": "Stony",
+        "description": "Enables use of Level 1 Pick Stone and Level 1 Throw Stone.",
+        "image": "https://static.divine-pride.net/images/items/cards/4424.png"
+    },
+    {
+        "name": "Steel Chonchon Card",
+        "prefix": "of Heman",
+        "description": "DEF + 2Increase resistance to Wind Property attacks by 10%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4042.png"
+    },
+    {
+        "name": "Stem Worm Card",
+        "prefix": "Monsoon",
+        "description": "Every time you kill a Brute monster, there is a 1% chance of gaining a \"Box of Storms\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4224.png"
+    },
+    {
+        "name": "Sting Card",
+        "prefix": "Supreme",
+        "description": "DEF + 2[Refine Rate +9 or higher]MDEF + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4226.png"
+    },
+    {
+        "name": "Stone Shooter Card",
+        "prefix": "Slingshot",
+        "description": "HIT + 10ATK + 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4225.png"
+    },
+    {
+        "name": "Stormy Knight Card",
+        "prefix": "Storm-Bringer's",
+        "description": "Add a 2% chance of auto casting Level 2 Storm Gust on the enemy when attacking.Has 20% chance of Freezing an enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4318.png"
+    },
+    {
+        "name": "Strouf Card",
+        "prefix": "Decussate",
+        "description": "Increase damage on Demon monster by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4111.png"
+    },
+    {
+        "name": "Succubus Card",
+        "prefix": "Nightmarish",
+        "description": "VIT -3Maximum HP +1000HP Recovery -20%[+ Incubus Card]VIT +4HP Recovery +30%More Information on Combo:Succubus Card & Incubus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4218.png"
+    },
+    {
+        "name": "Sword Guardian Card",
+        "prefix": "of Force",
+        "description": "Critical Rate + 5, HIT + 5Increases Bowling Bash damage with an one hand or two handed sword by 25%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4427.png"
+    },
+    {
+        "name": "Swordfish Card",
+        "prefix": "Aqua",
+        "description": "Enchant Armors with the Water Property.DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4089.png"
+    },
+    {
+        "name": "Tamruan Card",
+        "prefix": "Shield Master's",
+        "description": "DEF + 2Inflict 10% more damage with Shield Charge and Shield Boomerang skills.",
+        "image": "https://static.divine-pride.net/images/items/cards/4304.png"
+    },
+    {
+        "name": "Tao Gunka Card",
+        "prefix": "High Risk",
+        "description": "Maximum HP + 100%DEF - 50, MDEF - 50",
+        "image": "https://static.divine-pride.net/images/items/cards/4302.png"
+    },
+    {
+        "name": "Tarou Card",
+        "prefix": "Double-Forced",
+        "description": "STR + 2[Cramp Card Combo]More Information on Combo:Tarou Card & Cramp Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4028.png"
+    },
+    {
+        "name": "Tatacho Card",
+        "prefix": "of Basis",
+        "description": "Decreases damage from Neutral Property by 20%.  Increases damage dealing to Neutral Property by 5%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4442.png"
+    },
+    {
+        "name": "Teddy Bear Card",
+        "prefix": "of Requiem",
+        "description": "Reduce damage from Undead monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4340.png"
+    },
+    {
+        "name": "Tengu Card",
+        "prefix": "of Reservoir",
+        "description": "Add a chance of gaining a restorative item each time a monster is killed.",
+        "image": "https://static.divine-pride.net/images/items/cards/4282.png"
+    },
+    {
+        "name": "Thara Frog Card",
+        "prefix": "Cranial",
+        "description": "Reduce damage from DemiHuman monster by 30%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4058.png"
+    },
+    {
+        "name": "The Paper Card",
+        "prefix": "Slicing",
+        "description": "Inflict 20% more damage with Critical attacks.Drain 1 SP from its owner on each attack.[+ Wanderer, Wild Rose, Shinobi & Dancing Dragon Card]AGI + 5STR + 5Intimidate Auto-Spell will not function.Increases Attack Speed by 5%.Movement Speed + 5%Gain 1 SP every time when attacking.[Thief Class]Allows its user to use certain skills without spending Gemstones.More Information on Combo:The Paper Card, Wanderer Card, Shinobi Card, Wild Rose Card & Zhu Po Long Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4172.png"
+    },
+    {
+        "name": "Thief Bug Card",
+        "prefix": "Speedy",
+        "description": "AGI + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4016.png"
+    },
+    {
+        "name": "Thief Bug Egg Card",
+        "prefix": "Rigid",
+        "description": "Maximum HP + 400",
+        "image": "https://static.divine-pride.net/images/items/cards/4012.png"
+    },
+    {
+        "name": "Toad Card",
+        "prefix": "King's",
+        "description": "Perfect Dodge + 1[+ Roda Frog Card]Flee Rate + 18More Information on Combo:Roda Frog Card & Toad Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4306.png"
+    },
+    {
+        "name": "Tower Keeper Card",
+        "prefix": "of Torment",
+        "description": "INT + 1Reduce Casting Time by 5%.[+ Alarm, Clock & Punk Card]MDEF + 3DEF + 3More Information on Combo:Tower Keeper Card, Alarm Card, Clock Card & Punk Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4229.png"
+    },
+    {
+        "name": "Tri Joint Card",
+        "prefix": "Power Draining",
+        "description": "Gain 5 SP each time a Formless monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4308.png"
+    },
+    {
+        "name": "Turtle General Card",
+        "prefix": "Explosive",
+        "description": "Increases damage inflicted on all enemies by 20%.Add a 3% chance of automatically casting Level 10 Magnum Break on the enemy when attacking.",
+        "image": "https://static.divine-pride.net/images/items/cards/4305.png"
+    },
+    {
+        "name": "Ungoliant Card",
+        "prefix": "of Vitality",
+        "description": "Gain immunity to the Bleeding status.HP Recovery + 10%",
+        "image": "https://static.divine-pride.net/images/items/cards/4336.png"
+    },
+    {
+        "name": "Vadon Card",
+        "prefix": "Flammable",
+        "description": "Increase damage inflicted upon Fire Property enemies by 20%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4049.png"
+    },
+    {
+        "name": "Vagabond Wolf Card",
+        "prefix": "Werewolf",
+        "description": "STR + 1[+ Wolf Card]Flee Rate + 18More Information on Combo:Wolf Card & Vagabond Wolf Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4183.png"
+    },
+    {
+        "name": "Vanberk Card",
+        "prefix": "Arta's",
+        "description": "STR +2Each attack has a chance of gaining CRIT +100 for 5 seconds.",
+        "image": "https://static.divine-pride.net/images/items/cards/4411.png"
+    },
+    {
+        "name": "Venatu Card",
+        "prefix": "of Luck Switching",
+        "description": "Every 18 Base AGI, you gain 1 LUK.",
+        "image": "https://static.divine-pride.net/images/items/cards/4369.png"
+    },
+    {
+        "name": "Venomous Card",
+        "prefix": "of Chaotic Venom",
+        "description": "Add a 30% chance of auto casting 'Poison' on an enemy and yourself when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4333.png"
+    },
+    {
+        "name": "Verit Card",
+        "prefix": "Fledged",
+        "description": "Maximum HP and SP + 8%",
+        "image": "https://static.divine-pride.net/images/items/cards/4107.png"
+    },
+    {
+        "name": "Vesper Card",
+        "prefix": "of Vision",
+        "description": "Every time you do a Magical attack, it ignores 30% of Boss-type monster's MDEF, and does damage accordingly.DEX + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4374.png"
+    },
+    {
+        "name": "Violy Card",
+        "prefix": "Fiddler's",
+        "description": "Add a 2% chance of auto casting Level 1 Frost Joker on an enemy when attacking.If the user has mastered the skill at Level 5, it will cast Level 5 Frost Joker.",
+        "image": "https://static.divine-pride.net/images/items/cards/4209.png"
+    },
+    {
+        "name": "Vitata Card",
+        "prefix": "Healing",
+        "description": "Enables use of Level 1 Heal.Increases SP consumption of all skills by 25%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4053.png"
+    },
+    {
+        "name": "Vocal Card",
+        "prefix": "Virtuoso's",
+        "description": "MDEF + 3[+ Rocker Card]Flee Rate + 18More Information on Combo:Rocker Card & Vocal Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4211.png"
+    },
+    {
+        "name": "Wanderer Card",
+        "prefix": "Pressure",
+        "description": "Add a 2% chance of auto casting Level 1 Intimidate on an enemy when attacking.[Thief Class]Flee Rate + 20[The Paper, Wild Rose, Shinobi & Dancing Dragon Card Combo]More Information on Combo:Stainer Card, Wanderer Card, Shinobi Card, Wild Rose Card & Wickebine Tres CardThe Paper Card, Wanderer Card, Shinobi Card, Wild Rose Card & Zhu Po Long Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4210.png"
+    },
+    {
+        "name": "Waste Stove Card",
+        "prefix": "of Talent",
+        "description": "ATK + 5, INT + 1[+ Rideword, Cookie & Seal Card]ATK + 25STR + 3, Maximum SP + 80Add a 1% chance of auto casting Level 5 Signum Crucis on the enemy when attacking.Inflict 10% more damage with Asura Strike.[Monk, Champion]Reduce SP Consumption of skills by 10%.Spell casting can not be interrupted.More Information on Combo:Rideword Card, Cookie Card, Fur Seal Card & Waste Stove Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4332.png"
+    },
+    {
+        "name": "Whisper Card",
+        "prefix": "Mocking",
+        "description": "Flee Rate + 20Increase damage from Ghost Property attacks by 50%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4102.png"
+    },
+    {
+        "name": "White Lady Card",
+        "prefix": "Life Stream",
+        "description": "Increases effectiveness of Healing skills by 30% when they are cast by the wearer.Increases SP consumption by 15%.",
+        "image": "https://static.divine-pride.net/images/items/cards/4372.png"
+    },
+    {
+        "name": "Wickebine Tres Card",
+        "prefix": "Gangster",
+        "description": "Add a 5% chance of auto casting Level 1 Strip Armor on the enemy when attacking.[+ Stainer, Wanderer, Wild Rose & Shinobi Card]STR + 6AGI + 4Inflict 10% more damage with Back Stab.Add a 5% chance of auto casting Level 5 Strip Armor on the enemy when attacking if the user has mastered the skill at Level 5.[Rogue, Stalker]Disables the Auto-Intimidate ability of the Wanderer Card.Reduce SP Consumption of skills by 20%.More Information on Combo:Stainer Card, Wanderer Card, Shinobi Card, Wild Rose Card & Wickebine Tres Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4348.png"
+    },
+    {
+        "name": "Wild Rose Card",
+        "prefix": "Wing",
+        "description": "AGI + 1[Thief Class]Perfect Dodge + 5[Wanderer, The Paper, Shinobi & Dancing Dragon Card Combo]More Information on Combo:Stainer Card, Wanderer Card, Shinobi Card, Wild Rose Card & Wickebine Tres CardThe Paper Card, Wanderer Card, Shinobi Card, Wild Rose Card & Zhu Po Long Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4257.png"
+    },
+    {
+        "name": "Willow Card",
+        "prefix": "Wise",
+        "description": "Maximum SP + 80",
+        "image": "https://static.divine-pride.net/images/items/cards/4010.png"
+    },
+    {
+        "name": "Wind Ghost Card",
+        "prefix": "Thunderbolt",
+        "description": "Add a 2% chance of auto casting Level 3 Jupitel Thunder on the enemy when attacking.If the user has mastered the skill at Level 10, it will cast Level 10 Jupitel Thunder.",
+        "image": "https://static.divine-pride.net/images/items/cards/4264.png"
+    },
+    {
+        "name": "Wolf Card",
+        "prefix": "Wolverine",
+        "description": "ATK + 15Critical Rate + 1[Vagabond Wolf Card Combo]More Information on Combo:Wolf Card & Vagabond Wolf Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4029.png"
+    },
+    {
+        "name": "Wooden Golem Card",
+        "prefix": "of Nature",
+        "description": "HP Recovery + 30%DEF + 1",
+        "image": "https://static.divine-pride.net/images/items/cards/4259.png"
+    },
+    {
+        "name": "Wootan Fighter Card",
+        "prefix": "Bleed Resistant",
+        "description": "DEF + 1Add a 20% resistance against Bleeding.",
+        "image": "https://static.divine-pride.net/images/items/cards/4261.png"
+    },
+    {
+        "name": "Wootan Shooter Card",
+        "prefix": "Confusion Resistant",
+        "description": "DEF + 1Add a 20% resistance against Confusion.",
+        "image": "https://static.divine-pride.net/images/items/cards/4260.png"
+    },
+    {
+        "name": "Wormtail Card",
+        "prefix": "Clever",
+        "description": "DEX + 2",
+        "image": "https://static.divine-pride.net/images/items/cards/4034.png"
+    },
+    {
+        "name": "Wraith Card",
+        "prefix": "of Last Laugh",
+        "description": "Every time you kill an Undead monster, you can receive a \"Giggling Box\".",
+        "image": "https://static.divine-pride.net/images/items/cards/4190.png"
+    },
+    {
+        "name": "Wraith Dead Card",
+        "prefix": "of Misfortune",
+        "description": "Add a 6% chance of auto casting 'Curse' on an enemy when the user receives Physical Damage.",
+        "image": "https://static.divine-pride.net/images/items/cards/4189.png"
+    },
+    {
+        "name": "Yao Jun Card",
+        "prefix": "Hyper",
+        "description": "Flee Rate + 15Critical Rate + 1[+ Munak & Bongun Card]All Stats + 1More Information on Combo:Munak Card, Bongun Card & Yao Jun Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4328.png"
+    },
+    {
+        "name": "Yellow Novus Card",
+        "prefix": "of Scholar",
+        "description": "Maximum HP + 500HP Recovery + 10%[+ Miyabi Doll, Evil Nymph, Harpy & Bloody Butterfly Card]INT + 3Inflict 10% more damage with Heaven's Drive and Thunder Storm.[Sage, Professor]Reflect single target Magic back at the caster (Success Chance 20%).Add a 1% chance of gaining 'Red Gemstone' or 'Yellow Gemstone' item each time a monster is killed.Reduce Casting Time by 20%.More Information on Combo:Miyabi Doll Card, Evil Nymph Card, Harpy Card, Bloody Butterfly Card & Yellow Novus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4382.png"
+    },
+    {
+        "name": "Yoyo Card",
+        "prefix": "of Flash",
+        "description": "AGI + 1Perfect Dodge + 5",
+        "image": "https://static.divine-pride.net/images/items/cards/4051.png"
+    },
+    {
+        "name": "Zealotus Card",
+        "prefix": "Dominatrix",
+        "description": "LUK + 2Inflict 10% more damage with Throw Arrow and Musical Strike.[Injustice Card Combo]More Information on Combo:Injustice Card & Zealotus Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4277.png"
+    },
+    {
+        "name": "Zenorc Card",
+        "prefix": "Venomer's",
+        "description": "Poison an enemy when you Attack (Success Chance 4%).ATK + 10",
+        "image": "https://static.divine-pride.net/images/items/cards/4096.png"
+    },
+    {
+        "name": "Zerom Card",
+        "prefix": "Nimble",
+        "description": "DEX + 3",
+        "image": "https://static.divine-pride.net/images/items/cards/4064.png"
+    },
+    {
+        "name": "Zhu Po Long Card",
+        "prefix": "Swift",
+        "description": "AGI + 1Critical Rate + 3[Wanderer, The Paper, Wild Rose & Shinobi Card Combo]More Information on Combo:The Paper Card, Wanderer Card, Shinobi Card, Wild Rose Card & Zhu Po Long Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4272.png"
+    },
+    {
+        "name": "Zipper Bear Card",
+        "prefix": "Diligent",
+        "description": "ATK + 30Drain 1 SP from its owner on each attack.[Merchant Class]Make a weapon indestructible (except in upgrade attempts).[Raggler, Hylozoist, Myst Case & Baby Leopard Card Combo]More Information on Combo:Muka Card, Raggler Card, Baby Leopard Card, Zipper Bear Card & Holden CardRaggler Card, Myst Case Card, Baby Leopard Card, Zipper Bear Card & Hylozoist Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4281.png"
+    },
+    {
+        "name": "Zombie Card",
+        "prefix": "of Health",
+        "description": "HP Recovery + 20%",
+        "image": "https://static.divine-pride.net/images/items/cards/4038.png"
+    },
+    {
+        "name": "Zombie Master Card",
+        "prefix": "of Undead Soul Eater",
+        "description": "Gain 5 SP each time an Undead monster is killed by a Physical Melee Damage.Drain 5 SP as the weapon is unequipped.",
+        "image": "https://static.divine-pride.net/images/items/cards/4274.png"
+    },
+    {
+        "name": "Zombie Prisoner Card",
+        "prefix": "Undead Killer's",
+        "description": "Receive 10% more Experience Points from Undead monsters.Receive 20% more damage from Undead monster.",
+        "image": "https://static.divine-pride.net/images/items/cards/4275.png"
+    },
+    {
+        "name": "Zombie Slaughter Card",
+        "prefix": "Outrageous",
+        "description": "Recover 50 HP every time a monster is defeated by melee attack.Increase Physical and Magical Damage on DemiHuman monster by 1%.[Ragged Zombie Card Combo]More Information on Combo:Zombie Slaughter Card & Ragged Zombie Card",
+        "image": "https://static.divine-pride.net/images/items/cards/4435.png"
+    }
+]
