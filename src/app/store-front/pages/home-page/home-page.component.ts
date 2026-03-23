@@ -4,11 +4,11 @@ import { ProductsService } from '../../../products/services/products.service';
 import { rxResource } from '@angular/core/rxjs-interop';
 import { Pagination } from "../../../shared/components/pagination/pagination";
 import { PaginationService } from '../../../shared/components/pagination/pagination.service';
-
+import { SkeletonComponent } from '../../../utils/skeleton/skeleton.component';
 
 @Component({
   selector: 'app-home-page',
-  imports: [ProductCardComponent, Pagination],
+  imports: [ProductCardComponent, Pagination, SkeletonComponent],
   templateUrl: './home-page.component.html',
 })
 export class HomePageComponent { 
