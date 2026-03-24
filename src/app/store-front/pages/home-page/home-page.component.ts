@@ -6,12 +6,13 @@ import { Pagination } from "../../../shared/components/pagination/pagination";
 import { PaginationService } from '../../../shared/components/pagination/pagination.service';
 import { SkeletonComponent } from '../../../utils/skeleton/skeleton.component';
 
+
 @Component({
   selector: 'app-home-page',
-  imports: [ProductCardComponent, Pagination, SkeletonComponent],
+  imports: [ProductCardComponent, Pagination, SkeletonComponent, ],
   templateUrl: './home-page.component.html',
 })
-export class HomePageComponent { 
+export class HomePageComponent {  
 
   productsService = inject(ProductsService);
   paginationService = inject(PaginationService);

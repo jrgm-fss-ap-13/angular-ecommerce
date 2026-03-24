@@ -56,6 +56,7 @@ export class ProductsService {
             }
         })
             .pipe(
+                delay(2000),
                 //tap( (resp) =>console.log(resp))
                 tap((resp) => this.productsCache.set(key, resp))
             );

@@ -8,6 +8,7 @@ import { PaginationService } from '../../../shared/components/pagination/paginat
 import { Pagination } from '../../../shared/components/pagination/pagination';
 import { SkeletonComponent } from '../../../utils/skeleton/skeleton.component';
 
+
 @Component({
   selector: 'app-gender-page',
   imports: [ProductCardComponent,Pagination, SkeletonComponent],

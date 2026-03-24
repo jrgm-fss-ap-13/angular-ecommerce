@@ -1,5 +1,5 @@
 
-<div class="join flex justify-center items-center">
+<div class="join flex justify-center items-center" [ngClass]="className()">
 
     @for (page of getPagesList(); track page) {
           <button class="join-item btn"
@@ -11,7 +11,7 @@
     }
     <!-------->
     @empty {
-        <p>No hay páginas</p>
+       <util-pagination-skeleton></util-pagination-skeleton>
     }
 
 </div>

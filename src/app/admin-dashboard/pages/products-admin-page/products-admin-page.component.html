@@ -31,4 +31,8 @@
 
 </div>
 
-<product-table [products]="productsResorce.value()?.products ?? []"/>
+@if (productsResorce.isLoading()) {
+    <admin-product-table-skeleton class="mt-2"></admin-product-table-skeleton>
+} @else {
+    <product-table [products]="productsResorce.value()?.products ?? []"/>
+}
